@@ -1,0 +1,6 @@
+[
+  { "code": "99213", "description": "Office/outpatient visit" },
+  { "code": "72148", "description": "MRI lumbar spine w/o contrast" },
+  { "code": "73721", "description": "MRI lower extremity w/o contrast" },
+  { "code": "93000", "description": "Electrocardiogram complete" }
+]
