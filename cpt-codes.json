@@ -1,6 +1,4002 @@
 [
-  { "code": "99213", "description": "Office/outpatient visit" },
-  { "code": "72148", "description": "MRI lumbar spine w/o contrast" },
-  { "code": "73721", "description": "MRI lower extremity w/o contrast" },
-  { "code": "93000", "description": "Electrocardiogram complete" }
+  {
+    "code": "17929",
+    "description": "Imaging, simple service"
+  },
+  {
+    "code": "20332",
+    "description": "Biopsy, diagnostic procedure"
+  },
+  {
+    "code": "84824",
+    "description": "Examination, preventive assessment"
+  },
+  {
+    "code": "51581",
+    "description": "Screening, supportive treatment"
+  },
+  {
+    "code": "13254",
+    "description": "Evaluation, supportive treatment"
+  },
+  {
+    "code": "58948",
+    "description": "Injection, preventive procedure"
+  },
+  {
+    "code": "C3441",
+    "description": "Biopsy, basic test"
+  },
+  {
+    "code": "06544",
+    "description": "Consultation, advanced care"
+  },
+  {
+    "code": "74319",
+    "description": "Evaluation, preventive care"
+  },
+  {
+    "code": "75179",
+    "description": "Surgery, basic service"
+  },
+  {
+    "code": "91672",
+    "description": "Therapy, simple intervention"
+  },
+  {
+    "code": "97317",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "C9879",
+    "description": "Biopsy, complex service"
+  },
+  {
+    "code": "C8432",
+    "description": "Screening, simple care"
+  },
+  {
+    "code": "40201",
+    "description": "Surgery, diagnostic treatment"
+  },
+  {
+    "code": "G1010",
+    "description": "Biopsy, preventive intervention"
+  },
+  {
+    "code": "63761",
+    "description": "Biopsy, complex treatment"
+  },
+  {
+    "code": "70415",
+    "description": "Injection, supportive care"
+  },
+  {
+    "code": "94390",
+    "description": "Therapy, complex treatment"
+  },
+  {
+    "code": "23660",
+    "description": "Screening, advanced treatment"
+  },
+  {
+    "code": "70482",
+    "description": "Injection, advanced service"
+  },
+  {
+    "code": "28956",
+    "description": "Screening, diagnostic care"
+  },
+  {
+    "code": "48865",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "98361",
+    "description": "Biopsy, supportive test"
+  },
+  {
+    "code": "98760",
+    "description": "Examination, supportive service"
+  },
+  {
+    "code": "G7199",
+    "description": "Therapy, simple care"
+  },
+  {
+    "code": "33578",
+    "description": "Injection, advanced intervention"
+  },
+  {
+    "code": "52486",
+    "description": "Evaluation, therapeutic care"
+  },
+  {
+    "code": "G5121",
+    "description": "Therapy, basic service"
+  },
+  {
+    "code": "71350",
+    "description": "Examination, basic test"
+  },
+  {
+    "code": "01755",
+    "description": "Examination, advanced care"
+  },
+  {
+    "code": "64184",
+    "description": "Injection, advanced service"
+  },
+  {
+    "code": "58886",
+    "description": "Imaging, diagnostic procedure"
+  },
+  {
+    "code": "35310",
+    "description": "Surgery, basic intervention"
+  },
+  {
+    "code": "56491",
+    "description": "Imaging, simple intervention"
+  },
+  {
+    "code": "B3999",
+    "description": "Therapy, basic assessment"
+  },
+  {
+    "code": "54708",
+    "description": "Biopsy, simple assessment"
+  },
+  {
+    "code": "C4595",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "58744",
+    "description": "Therapy, supportive assessment"
+  },
+  {
+    "code": "69323",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "58366",
+    "description": "Biopsy, simple intervention"
+  },
+  {
+    "code": "53972",
+    "description": "Screening, advanced assessment"
+  },
+  {
+    "code": "09356",
+    "description": "Evaluation, complex care"
+  },
+  {
+    "code": "C7714",
+    "description": "Screening, advanced service"
+  },
+  {
+    "code": "36285",
+    "description": "Consultation, diagnostic test"
+  },
+  {
+    "code": "15055",
+    "description": "Therapy, advanced test"
+  },
+  {
+    "code": "84756",
+    "description": "Imaging, diagnostic assessment"
+  },
+  {
+    "code": "33050",
+    "description": "Consultation, preventive procedure"
+  },
+  {
+    "code": "84896",
+    "description": "Surgery, simple service"
+  },
+  {
+    "code": "77022",
+    "description": "Biopsy, advanced procedure"
+  },
+  {
+    "code": "73552",
+    "description": "Evaluation, complex assessment"
+  },
+  {
+    "code": "19315",
+    "description": "Imaging, basic test"
+  },
+  {
+    "code": "36377",
+    "description": "Surgery, therapeutic care"
+  },
+  {
+    "code": "28997",
+    "description": "Imaging, basic intervention"
+  },
+  {
+    "code": "08001",
+    "description": "Examination, supportive procedure"
+  },
+  {
+    "code": "35925",
+    "description": "Examination, therapeutic procedure"
+  },
+  {
+    "code": "27303",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "41180",
+    "description": "Injection, complex assessment"
+  },
+  {
+    "code": "62650",
+    "description": "Evaluation, preventive care"
+  },
+  {
+    "code": "C8178",
+    "description": "Screening, diagnostic care"
+  },
+  {
+    "code": "82654",
+    "description": "Consultation, complex service"
+  },
+  {
+    "code": "28020",
+    "description": "Screening, complex treatment"
+  },
+  {
+    "code": "40050",
+    "description": "Surgery, supportive care"
+  },
+  {
+    "code": "28140",
+    "description": "Biopsy, simple test"
+  },
+  {
+    "code": "C1511",
+    "description": "Biopsy, complex procedure"
+  },
+  {
+    "code": "A4282",
+    "description": "Examination, therapeutic intervention"
+  },
+  {
+    "code": "98452",
+    "description": "Consultation, basic treatment"
+  },
+  {
+    "code": "48692",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "95163",
+    "description": "Injection, simple test"
+  },
+  {
+    "code": "74977",
+    "description": "Biopsy, simple treatment"
+  },
+  {
+    "code": "44229",
+    "description": "Injection, basic service"
+  },
+  {
+    "code": "67450",
+    "description": "Biopsy, preventive intervention"
+  },
+  {
+    "code": "08620",
+    "description": "Surgery, therapeutic assessment"
+  },
+  {
+    "code": "02170",
+    "description": "Surgery, therapeutic service"
+  },
+  {
+    "code": "97334",
+    "description": "Evaluation, therapeutic intervention"
+  },
+  {
+    "code": "C8182",
+    "description": "Therapy, supportive service"
+  },
+  {
+    "code": "G5436",
+    "description": "Screening, simple test"
+  },
+  {
+    "code": "68906",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "43293",
+    "description": "Imaging, therapeutic service"
+  },
+  {
+    "code": "22059",
+    "description": "Examination, complex service"
+  },
+  {
+    "code": "A7284",
+    "description": "Screening, complex assessment"
+  },
+  {
+    "code": "64818",
+    "description": "Therapy, basic assessment"
+  },
+  {
+    "code": "67997",
+    "description": "Imaging, basic intervention"
+  },
+  {
+    "code": "19059",
+    "description": "Evaluation, preventive intervention"
+  },
+  {
+    "code": "B0942",
+    "description": "Biopsy, diagnostic assessment"
+  },
+  {
+    "code": "37427",
+    "description": "Injection, preventive care"
+  },
+  {
+    "code": "24884",
+    "description": "Evaluation, basic procedure"
+  },
+  {
+    "code": "13444",
+    "description": "Screening, basic assessment"
+  },
+  {
+    "code": "53854",
+    "description": "Therapy, therapeutic care"
+  },
+  {
+    "code": "37894",
+    "description": "Injection, preventive test"
+  },
+  {
+    "code": "62133",
+    "description": "Consultation, diagnostic procedure"
+  },
+  {
+    "code": "86359",
+    "description": "Therapy, preventive care"
+  },
+  {
+    "code": "99587",
+    "description": "Biopsy, simple procedure"
+  },
+  {
+    "code": "80612",
+    "description": "Injection, basic assessment"
+  },
+  {
+    "code": "A4942",
+    "description": "Surgery, complex assessment"
+  },
+  {
+    "code": "78199",
+    "description": "Therapy, diagnostic intervention"
+  },
+  {
+    "code": "G0361",
+    "description": "Consultation, simple procedure"
+  },
+  {
+    "code": "79620",
+    "description": "Surgery, supportive procedure"
+  },
+  {
+    "code": "87882",
+    "description": "Surgery, supportive assessment"
+  },
+  {
+    "code": "B2370",
+    "description": "Biopsy, diagnostic procedure"
+  },
+  {
+    "code": "96609",
+    "description": "Injection, basic intervention"
+  },
+  {
+    "code": "C7040",
+    "description": "Evaluation, advanced service"
+  },
+  {
+    "code": "64725",
+    "description": "Surgery, preventive procedure"
+  },
+  {
+    "code": "50215",
+    "description": "Consultation, preventive assessment"
+  },
+  {
+    "code": "98421",
+    "description": "Examination, diagnostic service"
+  },
+  {
+    "code": "C5829",
+    "description": "Biopsy, simple service"
+  },
+  {
+    "code": "19418",
+    "description": "Screening, therapeutic assessment"
+  },
+  {
+    "code": "18028",
+    "description": "Screening, preventive test"
+  },
+  {
+    "code": "69621",
+    "description": "Therapy, complex procedure"
+  },
+  {
+    "code": "82713",
+    "description": "Therapy, basic intervention"
+  },
+  {
+    "code": "91112",
+    "description": "Biopsy, diagnostic procedure"
+  },
+  {
+    "code": "00780",
+    "description": "Consultation, preventive intervention"
+  },
+  {
+    "code": "58227",
+    "description": "Consultation, preventive intervention"
+  },
+  {
+    "code": "G5737",
+    "description": "Injection, supportive assessment"
+  },
+  {
+    "code": "G2622",
+    "description": "Evaluation, simple service"
+  },
+  {
+    "code": "87248",
+    "description": "Consultation, diagnostic test"
+  },
+  {
+    "code": "G1247",
+    "description": "Evaluation, complex care"
+  },
+  {
+    "code": "16795",
+    "description": "Surgery, preventive test"
+  },
+  {
+    "code": "02013",
+    "description": "Examination, therapeutic test"
+  },
+  {
+    "code": "88170",
+    "description": "Consultation, therapeutic care"
+  },
+  {
+    "code": "42719",
+    "description": "Therapy, supportive assessment"
+  },
+  {
+    "code": "29548",
+    "description": "Injection, preventive test"
+  },
+  {
+    "code": "C2815",
+    "description": "Biopsy, therapeutic test"
+  },
+  {
+    "code": "90520",
+    "description": "Injection, simple test"
+  },
+  {
+    "code": "10755",
+    "description": "Screening, simple assessment"
+  },
+  {
+    "code": "58878",
+    "description": "Screening, simple treatment"
+  },
+  {
+    "code": "84675",
+    "description": "Surgery, therapeutic treatment"
+  },
+  {
+    "code": "41851",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "44288",
+    "description": "Biopsy, preventive treatment"
+  },
+  {
+    "code": "80626",
+    "description": "Therapy, therapeutic test"
+  },
+  {
+    "code": "B3205",
+    "description": "Consultation, basic procedure"
+  },
+  {
+    "code": "74504",
+    "description": "Evaluation, diagnostic treatment"
+  },
+  {
+    "code": "C4360",
+    "description": "Screening, simple assessment"
+  },
+  {
+    "code": "A7470",
+    "description": "Injection, supportive service"
+  },
+  {
+    "code": "32909",
+    "description": "Injection, diagnostic treatment"
+  },
+  {
+    "code": "69917",
+    "description": "Imaging, therapeutic treatment"
+  },
+  {
+    "code": "38511",
+    "description": "Injection, therapeutic assessment"
+  },
+  {
+    "code": "59457",
+    "description": "Examination, basic care"
+  },
+  {
+    "code": "75400",
+    "description": "Consultation, diagnostic service"
+  },
+  {
+    "code": "49825",
+    "description": "Evaluation, simple treatment"
+  },
+  {
+    "code": "73378",
+    "description": "Evaluation, simple procedure"
+  },
+  {
+    "code": "A2920",
+    "description": "Screening, complex intervention"
+  },
+  {
+    "code": "65529",
+    "description": "Evaluation, therapeutic treatment"
+  },
+  {
+    "code": "G7816",
+    "description": "Consultation, complex test"
+  },
+  {
+    "code": "G7834",
+    "description": "Consultation, therapeutic care"
+  },
+  {
+    "code": "91866",
+    "description": "Surgery, basic treatment"
+  },
+  {
+    "code": "29928",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "95362",
+    "description": "Screening, basic care"
+  },
+  {
+    "code": "80703",
+    "description": "Evaluation, diagnostic service"
+  },
+  {
+    "code": "02094",
+    "description": "Examination, complex care"
+  },
+  {
+    "code": "58011",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "B7506",
+    "description": "Examination, advanced procedure"
+  },
+  {
+    "code": "62658",
+    "description": "Surgery, basic procedure"
+  },
+  {
+    "code": "96774",
+    "description": "Evaluation, therapeutic assessment"
+  },
+  {
+    "code": "B9176",
+    "description": "Consultation, advanced assessment"
+  },
+  {
+    "code": "A1229",
+    "description": "Surgery, preventive assessment"
+  },
+  {
+    "code": "64948",
+    "description": "Imaging, simple care"
+  },
+  {
+    "code": "A6502",
+    "description": "Therapy, supportive treatment"
+  },
+  {
+    "code": "B0650",
+    "description": "Injection, supportive procedure"
+  },
+  {
+    "code": "75484",
+    "description": "Screening, simple intervention"
+  },
+  {
+    "code": "01064",
+    "description": "Surgery, diagnostic care"
+  },
+  {
+    "code": "B3558",
+    "description": "Therapy, complex test"
+  },
+  {
+    "code": "41563",
+    "description": "Consultation, therapeutic treatment"
+  },
+  {
+    "code": "13721",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "54002",
+    "description": "Biopsy, complex procedure"
+  },
+  {
+    "code": "53555",
+    "description": "Examination, simple treatment"
+  },
+  {
+    "code": "48389",
+    "description": "Screening, basic intervention"
+  },
+  {
+    "code": "42876",
+    "description": "Biopsy, advanced service"
+  },
+  {
+    "code": "65695",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "54484",
+    "description": "Examination, supportive service"
+  },
+  {
+    "code": "43626",
+    "description": "Screening, supportive care"
+  },
+  {
+    "code": "G1542",
+    "description": "Consultation, supportive care"
+  },
+  {
+    "code": "B2833",
+    "description": "Biopsy, simple intervention"
+  },
+  {
+    "code": "81709",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "40661",
+    "description": "Biopsy, therapeutic intervention"
+  },
+  {
+    "code": "B7466",
+    "description": "Examination, supportive intervention"
+  },
+  {
+    "code": "85609",
+    "description": "Imaging, complex test"
+  },
+  {
+    "code": "B0358",
+    "description": "Imaging, therapeutic intervention"
+  },
+  {
+    "code": "C7933",
+    "description": "Surgery, advanced test"
+  },
+  {
+    "code": "35024",
+    "description": "Surgery, basic procedure"
+  },
+  {
+    "code": "54203",
+    "description": "Biopsy, preventive assessment"
+  },
+  {
+    "code": "01346",
+    "description": "Therapy, supportive treatment"
+  },
+  {
+    "code": "74511",
+    "description": "Imaging, basic test"
+  },
+  {
+    "code": "73944",
+    "description": "Evaluation, advanced care"
+  },
+  {
+    "code": "35910",
+    "description": "Therapy, preventive care"
+  },
+  {
+    "code": "71327",
+    "description": "Injection, simple intervention"
+  },
+  {
+    "code": "73864",
+    "description": "Biopsy, preventive intervention"
+  },
+  {
+    "code": "71087",
+    "description": "Surgery, diagnostic service"
+  },
+  {
+    "code": "76485",
+    "description": "Surgery, diagnostic treatment"
+  },
+  {
+    "code": "48897",
+    "description": "Imaging, basic procedure"
+  },
+  {
+    "code": "C8631",
+    "description": "Evaluation, supportive procedure"
+  },
+  {
+    "code": "93986",
+    "description": "Injection, preventive treatment"
+  },
+  {
+    "code": "B7554",
+    "description": "Therapy, basic assessment"
+  },
+  {
+    "code": "G5973",
+    "description": "Consultation, advanced care"
+  },
+  {
+    "code": "34701",
+    "description": "Therapy, simple care"
+  },
+  {
+    "code": "78154",
+    "description": "Therapy, preventive care"
+  },
+  {
+    "code": "39653",
+    "description": "Therapy, diagnostic treatment"
+  },
+  {
+    "code": "C2065",
+    "description": "Therapy, preventive procedure"
+  },
+  {
+    "code": "60763",
+    "description": "Injection, supportive intervention"
+  },
+  {
+    "code": "45063",
+    "description": "Consultation, preventive procedure"
+  },
+  {
+    "code": "08037",
+    "description": "Injection, basic treatment"
+  },
+  {
+    "code": "24696",
+    "description": "Biopsy, diagnostic service"
+  },
+  {
+    "code": "56289",
+    "description": "Evaluation, diagnostic care"
+  },
+  {
+    "code": "76545",
+    "description": "Consultation, advanced intervention"
+  },
+  {
+    "code": "55924",
+    "description": "Surgery, simple service"
+  },
+  {
+    "code": "72947",
+    "description": "Consultation, therapeutic service"
+  },
+  {
+    "code": "79434",
+    "description": "Evaluation, preventive intervention"
+  },
+  {
+    "code": "41859",
+    "description": "Consultation, therapeutic assessment"
+  },
+  {
+    "code": "98091",
+    "description": "Screening, complex service"
+  },
+  {
+    "code": "36938",
+    "description": "Screening, therapeutic test"
+  },
+  {
+    "code": "12402",
+    "description": "Surgery, advanced service"
+  },
+  {
+    "code": "36280",
+    "description": "Examination, advanced test"
+  },
+  {
+    "code": "64880",
+    "description": "Evaluation, complex procedure"
+  },
+  {
+    "code": "06066",
+    "description": "Injection, complex service"
+  },
+  {
+    "code": "51455",
+    "description": "Evaluation, complex intervention"
+  },
+  {
+    "code": "82509",
+    "description": "Biopsy, therapeutic assessment"
+  },
+  {
+    "code": "B6839",
+    "description": "Examination, preventive service"
+  },
+  {
+    "code": "83000",
+    "description": "Imaging, diagnostic procedure"
+  },
+  {
+    "code": "73194",
+    "description": "Screening, therapeutic treatment"
+  },
+  {
+    "code": "16183",
+    "description": "Biopsy, supportive test"
+  },
+  {
+    "code": "57377",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "C7185",
+    "description": "Surgery, basic procedure"
+  },
+  {
+    "code": "51447",
+    "description": "Biopsy, complex service"
+  },
+  {
+    "code": "30361",
+    "description": "Injection, complex assessment"
+  },
+  {
+    "code": "73845",
+    "description": "Therapy, diagnostic treatment"
+  },
+  {
+    "code": "05912",
+    "description": "Screening, supportive procedure"
+  },
+  {
+    "code": "45790",
+    "description": "Surgery, advanced intervention"
+  },
+  {
+    "code": "86128",
+    "description": "Examination, basic procedure"
+  },
+  {
+    "code": "53813",
+    "description": "Screening, basic service"
+  },
+  {
+    "code": "G2033",
+    "description": "Screening, advanced care"
+  },
+  {
+    "code": "03302",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "B3143",
+    "description": "Examination, complex treatment"
+  },
+  {
+    "code": "18105",
+    "description": "Evaluation, diagnostic treatment"
+  },
+  {
+    "code": "60714",
+    "description": "Consultation, diagnostic assessment"
+  },
+  {
+    "code": "40062",
+    "description": "Screening, advanced service"
+  },
+  {
+    "code": "58884",
+    "description": "Screening, basic service"
+  },
+  {
+    "code": "89457",
+    "description": "Screening, therapeutic test"
+  },
+  {
+    "code": "26127",
+    "description": "Evaluation, basic intervention"
+  },
+  {
+    "code": "11050",
+    "description": "Biopsy, advanced assessment"
+  },
+  {
+    "code": "96824",
+    "description": "Surgery, preventive assessment"
+  },
+  {
+    "code": "A8807",
+    "description": "Therapy, basic test"
+  },
+  {
+    "code": "43727",
+    "description": "Surgery, simple procedure"
+  },
+  {
+    "code": "18937",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "49133",
+    "description": "Evaluation, advanced procedure"
+  },
+  {
+    "code": "91276",
+    "description": "Injection, supportive service"
+  },
+  {
+    "code": "A6325",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "61404",
+    "description": "Evaluation, basic test"
+  },
+  {
+    "code": "B1484",
+    "description": "Consultation, therapeutic service"
+  },
+  {
+    "code": "95073",
+    "description": "Evaluation, basic service"
+  },
+  {
+    "code": "61936",
+    "description": "Injection, therapeutic intervention"
+  },
+  {
+    "code": "70217",
+    "description": "Evaluation, therapeutic assessment"
+  },
+  {
+    "code": "97776",
+    "description": "Imaging, complex intervention"
+  },
+  {
+    "code": "85276",
+    "description": "Therapy, preventive assessment"
+  },
+  {
+    "code": "68104",
+    "description": "Evaluation, basic intervention"
+  },
+  {
+    "code": "87538",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "29697",
+    "description": "Therapy, supportive service"
+  },
+  {
+    "code": "55951",
+    "description": "Examination, therapeutic treatment"
+  },
+  {
+    "code": "C0749",
+    "description": "Therapy, diagnostic assessment"
+  },
+  {
+    "code": "07515",
+    "description": "Imaging, advanced test"
+  },
+  {
+    "code": "B1592",
+    "description": "Evaluation, diagnostic service"
+  },
+  {
+    "code": "32811",
+    "description": "Evaluation, basic service"
+  },
+  {
+    "code": "94519",
+    "description": "Injection, supportive assessment"
+  },
+  {
+    "code": "A3203",
+    "description": "Consultation, basic service"
+  },
+  {
+    "code": "62578",
+    "description": "Screening, basic care"
+  },
+  {
+    "code": "11697",
+    "description": "Imaging, basic test"
+  },
+  {
+    "code": "A1762",
+    "description": "Biopsy, basic test"
+  },
+  {
+    "code": "49614",
+    "description": "Surgery, basic intervention"
+  },
+  {
+    "code": "98768",
+    "description": "Consultation, diagnostic test"
+  },
+  {
+    "code": "B7993",
+    "description": "Biopsy, complex service"
+  },
+  {
+    "code": "22412",
+    "description": "Biopsy, advanced procedure"
+  },
+  {
+    "code": "26576",
+    "description": "Therapy, diagnostic procedure"
+  },
+  {
+    "code": "72144",
+    "description": "Consultation, therapeutic care"
+  },
+  {
+    "code": "91116",
+    "description": "Injection, simple test"
+  },
+  {
+    "code": "09893",
+    "description": "Therapy, preventive service"
+  },
+  {
+    "code": "77656",
+    "description": "Therapy, diagnostic test"
+  },
+  {
+    "code": "B7897",
+    "description": "Biopsy, complex care"
+  },
+  {
+    "code": "C8863",
+    "description": "Biopsy, complex care"
+  },
+  {
+    "code": "59480",
+    "description": "Therapy, advanced care"
+  },
+  {
+    "code": "A4006",
+    "description": "Examination, supportive intervention"
+  },
+  {
+    "code": "70362",
+    "description": "Injection, preventive treatment"
+  },
+  {
+    "code": "65719",
+    "description": "Consultation, diagnostic procedure"
+  },
+  {
+    "code": "63100",
+    "description": "Screening, complex procedure"
+  },
+  {
+    "code": "C6854",
+    "description": "Therapy, supportive test"
+  },
+  {
+    "code": "22032",
+    "description": "Surgery, diagnostic assessment"
+  },
+  {
+    "code": "61720",
+    "description": "Injection, diagnostic test"
+  },
+  {
+    "code": "15954",
+    "description": "Imaging, therapeutic intervention"
+  },
+  {
+    "code": "28460",
+    "description": "Injection, supportive assessment"
+  },
+  {
+    "code": "90630",
+    "description": "Injection, simple care"
+  },
+  {
+    "code": "A2763",
+    "description": "Imaging, simple care"
+  },
+  {
+    "code": "14869",
+    "description": "Therapy, therapeutic test"
+  },
+  {
+    "code": "42204",
+    "description": "Screening, basic service"
+  },
+  {
+    "code": "C6476",
+    "description": "Imaging, advanced care"
+  },
+  {
+    "code": "87494",
+    "description": "Surgery, preventive procedure"
+  },
+  {
+    "code": "58648",
+    "description": "Imaging, therapeutic test"
+  },
+  {
+    "code": "96724",
+    "description": "Evaluation, supportive procedure"
+  },
+  {
+    "code": "79326",
+    "description": "Screening, advanced test"
+  },
+  {
+    "code": "08867",
+    "description": "Injection, therapeutic treatment"
+  },
+  {
+    "code": "G7937",
+    "description": "Examination, diagnostic procedure"
+  },
+  {
+    "code": "03068",
+    "description": "Surgery, supportive intervention"
+  },
+  {
+    "code": "64936",
+    "description": "Injection, preventive treatment"
+  },
+  {
+    "code": "04403",
+    "description": "Screening, advanced care"
+  },
+  {
+    "code": "C8754",
+    "description": "Injection, advanced procedure"
+  },
+  {
+    "code": "49944",
+    "description": "Consultation, basic treatment"
+  },
+  {
+    "code": "A1993",
+    "description": "Surgery, preventive service"
+  },
+  {
+    "code": "82331",
+    "description": "Examination, basic treatment"
+  },
+  {
+    "code": "11985",
+    "description": "Screening, diagnostic procedure"
+  },
+  {
+    "code": "19648",
+    "description": "Surgery, advanced procedure"
+  },
+  {
+    "code": "92599",
+    "description": "Evaluation, therapeutic test"
+  },
+  {
+    "code": "19630",
+    "description": "Evaluation, supportive care"
+  },
+  {
+    "code": "64651",
+    "description": "Surgery, diagnostic assessment"
+  },
+  {
+    "code": "29831",
+    "description": "Examination, preventive treatment"
+  },
+  {
+    "code": "74274",
+    "description": "Surgery, supportive care"
+  },
+  {
+    "code": "01050",
+    "description": "Biopsy, preventive treatment"
+  },
+  {
+    "code": "01411",
+    "description": "Consultation, simple procedure"
+  },
+  {
+    "code": "A5225",
+    "description": "Evaluation, therapeutic test"
+  },
+  {
+    "code": "20325",
+    "description": "Consultation, complex care"
+  },
+  {
+    "code": "51521",
+    "description": "Examination, diagnostic procedure"
+  },
+  {
+    "code": "87563",
+    "description": "Evaluation, diagnostic care"
+  },
+  {
+    "code": "69569",
+    "description": "Imaging, therapeutic procedure"
+  },
+  {
+    "code": "51466",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "06147",
+    "description": "Examination, diagnostic treatment"
+  },
+  {
+    "code": "34452",
+    "description": "Surgery, preventive test"
+  },
+  {
+    "code": "C4475",
+    "description": "Imaging, advanced assessment"
+  },
+  {
+    "code": "A4855",
+    "description": "Surgery, supportive treatment"
+  },
+  {
+    "code": "40256",
+    "description": "Surgery, advanced procedure"
+  },
+  {
+    "code": "03207",
+    "description": "Evaluation, supportive assessment"
+  },
+  {
+    "code": "39693",
+    "description": "Injection, supportive test"
+  },
+  {
+    "code": "09677",
+    "description": "Evaluation, diagnostic treatment"
+  },
+  {
+    "code": "41077",
+    "description": "Consultation, supportive intervention"
+  },
+  {
+    "code": "27222",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "41701",
+    "description": "Surgery, diagnostic service"
+  },
+  {
+    "code": "71638",
+    "description": "Injection, supportive treatment"
+  },
+  {
+    "code": "75596",
+    "description": "Evaluation, basic intervention"
+  },
+  {
+    "code": "60600",
+    "description": "Examination, advanced procedure"
+  },
+  {
+    "code": "33385",
+    "description": "Surgery, supportive test"
+  },
+  {
+    "code": "38757",
+    "description": "Evaluation, supportive procedure"
+  },
+  {
+    "code": "47327",
+    "description": "Therapy, therapeutic intervention"
+  },
+  {
+    "code": "G8053",
+    "description": "Consultation, therapeutic intervention"
+  },
+  {
+    "code": "54223",
+    "description": "Injection, diagnostic service"
+  },
+  {
+    "code": "21772",
+    "description": "Imaging, basic service"
+  },
+  {
+    "code": "49017",
+    "description": "Consultation, complex assessment"
+  },
+  {
+    "code": "29005",
+    "description": "Screening, simple intervention"
+  },
+  {
+    "code": "99509",
+    "description": "Imaging, simple test"
+  },
+  {
+    "code": "73163",
+    "description": "Biopsy, preventive treatment"
+  },
+  {
+    "code": "53460",
+    "description": "Examination, basic assessment"
+  },
+  {
+    "code": "91757",
+    "description": "Imaging, basic test"
+  },
+  {
+    "code": "86523",
+    "description": "Evaluation, simple intervention"
+  },
+  {
+    "code": "48964",
+    "description": "Therapy, simple procedure"
+  },
+  {
+    "code": "C5109",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "60074",
+    "description": "Evaluation, supportive service"
+  },
+  {
+    "code": "53046",
+    "description": "Biopsy, advanced test"
+  },
+  {
+    "code": "14395",
+    "description": "Consultation, advanced test"
+  },
+  {
+    "code": "36170",
+    "description": "Therapy, advanced treatment"
+  },
+  {
+    "code": "31761",
+    "description": "Injection, diagnostic procedure"
+  },
+  {
+    "code": "02508",
+    "description": "Evaluation, complex procedure"
+  },
+  {
+    "code": "87308",
+    "description": "Biopsy, complex service"
+  },
+  {
+    "code": "38829",
+    "description": "Consultation, complex procedure"
+  },
+  {
+    "code": "73524",
+    "description": "Therapy, therapeutic care"
+  },
+  {
+    "code": "G2450",
+    "description": "Evaluation, complex test"
+  },
+  {
+    "code": "B4723",
+    "description": "Surgery, advanced service"
+  },
+  {
+    "code": "A6622",
+    "description": "Therapy, simple service"
+  },
+  {
+    "code": "A6572",
+    "description": "Screening, diagnostic assessment"
+  },
+  {
+    "code": "G8571",
+    "description": "Therapy, simple care"
+  },
+  {
+    "code": "11948",
+    "description": "Surgery, advanced service"
+  },
+  {
+    "code": "G5584",
+    "description": "Biopsy, supportive treatment"
+  },
+  {
+    "code": "13094",
+    "description": "Surgery, preventive treatment"
+  },
+  {
+    "code": "A3135",
+    "description": "Evaluation, advanced procedure"
+  },
+  {
+    "code": "98888",
+    "description": "Biopsy, basic treatment"
+  },
+  {
+    "code": "40585",
+    "description": "Screening, basic treatment"
+  },
+  {
+    "code": "C2695",
+    "description": "Screening, complex test"
+  },
+  {
+    "code": "42067",
+    "description": "Screening, advanced intervention"
+  },
+  {
+    "code": "B4302",
+    "description": "Screening, advanced care"
+  },
+  {
+    "code": "82937",
+    "description": "Injection, therapeutic assessment"
+  },
+  {
+    "code": "81007",
+    "description": "Imaging, preventive test"
+  },
+  {
+    "code": "11614",
+    "description": "Evaluation, advanced service"
+  },
+  {
+    "code": "46304",
+    "description": "Surgery, therapeutic procedure"
+  },
+  {
+    "code": "58421",
+    "description": "Examination, complex assessment"
+  },
+  {
+    "code": "15096",
+    "description": "Examination, simple test"
+  },
+  {
+    "code": "21489",
+    "description": "Injection, preventive service"
+  },
+  {
+    "code": "71164",
+    "description": "Imaging, complex test"
+  },
+  {
+    "code": "68202",
+    "description": "Injection, supportive treatment"
+  },
+  {
+    "code": "A5347",
+    "description": "Examination, simple assessment"
+  },
+  {
+    "code": "B2966",
+    "description": "Evaluation, basic treatment"
+  },
+  {
+    "code": "01453",
+    "description": "Consultation, diagnostic treatment"
+  },
+  {
+    "code": "11699",
+    "description": "Screening, simple intervention"
+  },
+  {
+    "code": "44818",
+    "description": "Evaluation, supportive assessment"
+  },
+  {
+    "code": "46383",
+    "description": "Examination, supportive procedure"
+  },
+  {
+    "code": "G7144",
+    "description": "Surgery, complex treatment"
+  },
+  {
+    "code": "26284",
+    "description": "Imaging, basic intervention"
+  },
+  {
+    "code": "06604",
+    "description": "Biopsy, preventive procedure"
+  },
+  {
+    "code": "94779",
+    "description": "Imaging, therapeutic care"
+  },
+  {
+    "code": "B3527",
+    "description": "Screening, basic test"
+  },
+  {
+    "code": "44010",
+    "description": "Biopsy, complex procedure"
+  },
+  {
+    "code": "A9011",
+    "description": "Surgery, supportive intervention"
+  },
+  {
+    "code": "72616",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "41259",
+    "description": "Surgery, advanced assessment"
+  },
+  {
+    "code": "76502",
+    "description": "Surgery, basic treatment"
+  },
+  {
+    "code": "43264",
+    "description": "Therapy, simple intervention"
+  },
+  {
+    "code": "58496",
+    "description": "Therapy, diagnostic treatment"
+  },
+  {
+    "code": "87874",
+    "description": "Consultation, preventive care"
+  },
+  {
+    "code": "83798",
+    "description": "Biopsy, advanced service"
+  },
+  {
+    "code": "11444",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "C9528",
+    "description": "Evaluation, supportive assessment"
+  },
+  {
+    "code": "36420",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "43222",
+    "description": "Biopsy, complex test"
+  },
+  {
+    "code": "78368",
+    "description": "Imaging, preventive procedure"
+  },
+  {
+    "code": "34148",
+    "description": "Consultation, simple test"
+  },
+  {
+    "code": "11937",
+    "description": "Therapy, simple assessment"
+  },
+  {
+    "code": "35858",
+    "description": "Surgery, simple service"
+  },
+  {
+    "code": "G9532",
+    "description": "Biopsy, advanced service"
+  },
+  {
+    "code": "86193",
+    "description": "Screening, preventive procedure"
+  },
+  {
+    "code": "28704",
+    "description": "Imaging, diagnostic intervention"
+  },
+  {
+    "code": "73657",
+    "description": "Biopsy, therapeutic assessment"
+  },
+  {
+    "code": "07141",
+    "description": "Consultation, diagnostic service"
+  },
+  {
+    "code": "87165",
+    "description": "Imaging, basic intervention"
+  },
+  {
+    "code": "82330",
+    "description": "Consultation, therapeutic assessment"
+  },
+  {
+    "code": "B8446",
+    "description": "Surgery, advanced care"
+  },
+  {
+    "code": "80334",
+    "description": "Surgery, advanced intervention"
+  },
+  {
+    "code": "18207",
+    "description": "Surgery, diagnostic test"
+  },
+  {
+    "code": "36570",
+    "description": "Consultation, basic care"
+  },
+  {
+    "code": "47284",
+    "description": "Surgery, basic test"
+  },
+  {
+    "code": "26869",
+    "description": "Consultation, basic procedure"
+  },
+  {
+    "code": "38631",
+    "description": "Surgery, simple intervention"
+  },
+  {
+    "code": "B7517",
+    "description": "Surgery, advanced care"
+  },
+  {
+    "code": "52755",
+    "description": "Examination, diagnostic procedure"
+  },
+  {
+    "code": "C0163",
+    "description": "Injection, therapeutic assessment"
+  },
+  {
+    "code": "G4651",
+    "description": "Evaluation, therapeutic treatment"
+  },
+  {
+    "code": "07052",
+    "description": "Biopsy, diagnostic care"
+  },
+  {
+    "code": "47713",
+    "description": "Surgery, preventive assessment"
+  },
+  {
+    "code": "45138",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "G3684",
+    "description": "Examination, advanced intervention"
+  },
+  {
+    "code": "11059",
+    "description": "Imaging, advanced assessment"
+  },
+  {
+    "code": "96331",
+    "description": "Biopsy, complex treatment"
+  },
+  {
+    "code": "74923",
+    "description": "Consultation, basic assessment"
+  },
+  {
+    "code": "12840",
+    "description": "Screening, simple treatment"
+  },
+  {
+    "code": "81120",
+    "description": "Therapy, supportive treatment"
+  },
+  {
+    "code": "73004",
+    "description": "Consultation, simple treatment"
+  },
+  {
+    "code": "56554",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "76870",
+    "description": "Surgery, supportive care"
+  },
+  {
+    "code": "82534",
+    "description": "Injection, complex test"
+  },
+  {
+    "code": "C8873",
+    "description": "Injection, complex intervention"
+  },
+  {
+    "code": "23022",
+    "description": "Biopsy, supportive treatment"
+  },
+  {
+    "code": "00467",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "C7544",
+    "description": "Surgery, diagnostic care"
+  },
+  {
+    "code": "B3953",
+    "description": "Screening, supportive assessment"
+  },
+  {
+    "code": "41609",
+    "description": "Consultation, simple service"
+  },
+  {
+    "code": "92337",
+    "description": "Examination, therapeutic intervention"
+  },
+  {
+    "code": "40735",
+    "description": "Injection, preventive test"
+  },
+  {
+    "code": "74085",
+    "description": "Biopsy, supportive assessment"
+  },
+  {
+    "code": "45137",
+    "description": "Therapy, advanced assessment"
+  },
+  {
+    "code": "B4892",
+    "description": "Screening, supportive care"
+  },
+  {
+    "code": "B5956",
+    "description": "Consultation, simple assessment"
+  },
+  {
+    "code": "44919",
+    "description": "Screening, supportive procedure"
+  },
+  {
+    "code": "49666",
+    "description": "Examination, advanced care"
+  },
+  {
+    "code": "40762",
+    "description": "Injection, supportive treatment"
+  },
+  {
+    "code": "37307",
+    "description": "Examination, diagnostic service"
+  },
+  {
+    "code": "38780",
+    "description": "Consultation, simple intervention"
+  },
+  {
+    "code": "G4950",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "55133",
+    "description": "Imaging, simple assessment"
+  },
+  {
+    "code": "72052",
+    "description": "Screening, preventive care"
+  },
+  {
+    "code": "38352",
+    "description": "Biopsy, supportive intervention"
+  },
+  {
+    "code": "16368",
+    "description": "Biopsy, diagnostic treatment"
+  },
+  {
+    "code": "79870",
+    "description": "Therapy, complex service"
+  },
+  {
+    "code": "55529",
+    "description": "Imaging, basic care"
+  },
+  {
+    "code": "77821",
+    "description": "Biopsy, basic intervention"
+  },
+  {
+    "code": "G5653",
+    "description": "Imaging, advanced care"
+  },
+  {
+    "code": "78750",
+    "description": "Therapy, therapeutic assessment"
+  },
+  {
+    "code": "92323",
+    "description": "Imaging, preventive intervention"
+  },
+  {
+    "code": "A8917",
+    "description": "Biopsy, therapeutic procedure"
+  },
+  {
+    "code": "06488",
+    "description": "Therapy, advanced care"
+  },
+  {
+    "code": "92484",
+    "description": "Biopsy, preventive service"
+  },
+  {
+    "code": "22529",
+    "description": "Examination, therapeutic test"
+  },
+  {
+    "code": "63719",
+    "description": "Screening, supportive treatment"
+  },
+  {
+    "code": "A2979",
+    "description": "Biopsy, advanced service"
+  },
+  {
+    "code": "28110",
+    "description": "Consultation, advanced assessment"
+  },
+  {
+    "code": "17228",
+    "description": "Screening, basic care"
+  },
+  {
+    "code": "65483",
+    "description": "Therapy, supportive test"
+  },
+  {
+    "code": "99643",
+    "description": "Screening, therapeutic service"
+  },
+  {
+    "code": "59362",
+    "description": "Injection, preventive assessment"
+  },
+  {
+    "code": "A3456",
+    "description": "Examination, supportive care"
+  },
+  {
+    "code": "93277",
+    "description": "Injection, basic procedure"
+  },
+  {
+    "code": "G8331",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "77607",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "64476",
+    "description": "Biopsy, supportive assessment"
+  },
+  {
+    "code": "66060",
+    "description": "Screening, therapeutic intervention"
+  },
+  {
+    "code": "44978",
+    "description": "Therapy, preventive test"
+  },
+  {
+    "code": "97660",
+    "description": "Injection, therapeutic test"
+  },
+  {
+    "code": "61455",
+    "description": "Surgery, supportive treatment"
+  },
+  {
+    "code": "81087",
+    "description": "Biopsy, advanced intervention"
+  },
+  {
+    "code": "68436",
+    "description": "Therapy, therapeutic care"
+  },
+  {
+    "code": "96650",
+    "description": "Consultation, preventive care"
+  },
+  {
+    "code": "24429",
+    "description": "Surgery, supportive procedure"
+  },
+  {
+    "code": "48252",
+    "description": "Consultation, preventive intervention"
+  },
+  {
+    "code": "01791",
+    "description": "Screening, simple service"
+  },
+  {
+    "code": "89330",
+    "description": "Consultation, complex assessment"
+  },
+  {
+    "code": "G4018",
+    "description": "Therapy, advanced procedure"
+  },
+  {
+    "code": "69783",
+    "description": "Evaluation, preventive intervention"
+  },
+  {
+    "code": "61535",
+    "description": "Examination, complex test"
+  },
+  {
+    "code": "B9748",
+    "description": "Therapy, complex assessment"
+  },
+  {
+    "code": "70228",
+    "description": "Consultation, simple test"
+  },
+  {
+    "code": "55608",
+    "description": "Surgery, supportive procedure"
+  },
+  {
+    "code": "49547",
+    "description": "Injection, advanced procedure"
+  },
+  {
+    "code": "G5305",
+    "description": "Injection, therapeutic procedure"
+  },
+  {
+    "code": "C7548",
+    "description": "Injection, preventive assessment"
+  },
+  {
+    "code": "G8339",
+    "description": "Screening, preventive service"
+  },
+  {
+    "code": "27578",
+    "description": "Consultation, supportive intervention"
+  },
+  {
+    "code": "71597",
+    "description": "Therapy, simple care"
+  },
+  {
+    "code": "79622",
+    "description": "Consultation, therapeutic procedure"
+  },
+  {
+    "code": "02527",
+    "description": "Screening, supportive intervention"
+  },
+  {
+    "code": "34282",
+    "description": "Surgery, basic intervention"
+  },
+  {
+    "code": "52080",
+    "description": "Injection, supportive service"
+  },
+  {
+    "code": "40088",
+    "description": "Therapy, advanced treatment"
+  },
+  {
+    "code": "G7091",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "60702",
+    "description": "Evaluation, basic test"
+  },
+  {
+    "code": "49926",
+    "description": "Therapy, complex care"
+  },
+  {
+    "code": "39430",
+    "description": "Surgery, supportive intervention"
+  },
+  {
+    "code": "B0102",
+    "description": "Therapy, complex intervention"
+  },
+  {
+    "code": "73065",
+    "description": "Biopsy, preventive procedure"
+  },
+  {
+    "code": "70982",
+    "description": "Screening, preventive service"
+  },
+  {
+    "code": "C3848",
+    "description": "Surgery, therapeutic test"
+  },
+  {
+    "code": "50152",
+    "description": "Consultation, therapeutic service"
+  },
+  {
+    "code": "G4705",
+    "description": "Injection, preventive assessment"
+  },
+  {
+    "code": "51110",
+    "description": "Imaging, therapeutic procedure"
+  },
+  {
+    "code": "63973",
+    "description": "Evaluation, complex intervention"
+  },
+  {
+    "code": "52189",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "B0416",
+    "description": "Examination, simple care"
+  },
+  {
+    "code": "88258",
+    "description": "Therapy, advanced test"
+  },
+  {
+    "code": "C6810",
+    "description": "Examination, therapeutic intervention"
+  },
+  {
+    "code": "G3648",
+    "description": "Biopsy, complex assessment"
+  },
+  {
+    "code": "98015",
+    "description": "Injection, therapeutic assessment"
+  },
+  {
+    "code": "48064",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "24988",
+    "description": "Consultation, simple assessment"
+  },
+  {
+    "code": "C8382",
+    "description": "Injection, therapeutic procedure"
+  },
+  {
+    "code": "B7338",
+    "description": "Imaging, complex care"
+  },
+  {
+    "code": "G6359",
+    "description": "Injection, advanced service"
+  },
+  {
+    "code": "39598",
+    "description": "Examination, simple assessment"
+  },
+  {
+    "code": "G0165",
+    "description": "Injection, diagnostic assessment"
+  },
+  {
+    "code": "55429",
+    "description": "Imaging, complex test"
+  },
+  {
+    "code": "86318",
+    "description": "Biopsy, preventive intervention"
+  },
+  {
+    "code": "10116",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "00303",
+    "description": "Biopsy, diagnostic assessment"
+  },
+  {
+    "code": "C6741",
+    "description": "Examination, preventive care"
+  },
+  {
+    "code": "35624",
+    "description": "Consultation, therapeutic care"
+  },
+  {
+    "code": "08932",
+    "description": "Therapy, diagnostic care"
+  },
+  {
+    "code": "52964",
+    "description": "Injection, advanced test"
+  },
+  {
+    "code": "90015",
+    "description": "Evaluation, basic intervention"
+  },
+  {
+    "code": "G9050",
+    "description": "Evaluation, diagnostic care"
+  },
+  {
+    "code": "54733",
+    "description": "Screening, basic treatment"
+  },
+  {
+    "code": "01009",
+    "description": "Biopsy, supportive assessment"
+  },
+  {
+    "code": "91413",
+    "description": "Injection, advanced care"
+  },
+  {
+    "code": "36749",
+    "description": "Examination, complex intervention"
+  },
+  {
+    "code": "90414",
+    "description": "Injection, supportive service"
+  },
+  {
+    "code": "96280",
+    "description": "Examination, basic test"
+  },
+  {
+    "code": "30064",
+    "description": "Therapy, advanced test"
+  },
+  {
+    "code": "12744",
+    "description": "Biopsy, simple care"
+  },
+  {
+    "code": "56622",
+    "description": "Evaluation, basic test"
+  },
+  {
+    "code": "75499",
+    "description": "Examination, basic treatment"
+  },
+  {
+    "code": "94729",
+    "description": "Screening, simple care"
+  },
+  {
+    "code": "82463",
+    "description": "Imaging, simple procedure"
+  },
+  {
+    "code": "51727",
+    "description": "Evaluation, simple service"
+  },
+  {
+    "code": "79949",
+    "description": "Evaluation, complex procedure"
+  },
+  {
+    "code": "07822",
+    "description": "Therapy, complex procedure"
+  },
+  {
+    "code": "94860",
+    "description": "Screening, therapeutic care"
+  },
+  {
+    "code": "60955",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "86170",
+    "description": "Imaging, therapeutic assessment"
+  },
+  {
+    "code": "85779",
+    "description": "Biopsy, preventive service"
+  },
+  {
+    "code": "54998",
+    "description": "Examination, diagnostic treatment"
+  },
+  {
+    "code": "21314",
+    "description": "Consultation, diagnostic treatment"
+  },
+  {
+    "code": "84491",
+    "description": "Screening, simple test"
+  },
+  {
+    "code": "54269",
+    "description": "Biopsy, supportive treatment"
+  },
+  {
+    "code": "64590",
+    "description": "Screening, simple intervention"
+  },
+  {
+    "code": "38756",
+    "description": "Imaging, supportive intervention"
+  },
+  {
+    "code": "13729",
+    "description": "Consultation, basic assessment"
+  },
+  {
+    "code": "76805",
+    "description": "Therapy, preventive test"
+  },
+  {
+    "code": "A7325",
+    "description": "Therapy, complex service"
+  },
+  {
+    "code": "45718",
+    "description": "Biopsy, advanced assessment"
+  },
+  {
+    "code": "96143",
+    "description": "Therapy, preventive care"
+  },
+  {
+    "code": "G5691",
+    "description": "Biopsy, diagnostic intervention"
+  },
+  {
+    "code": "40268",
+    "description": "Imaging, complex treatment"
+  },
+  {
+    "code": "41327",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "63814",
+    "description": "Screening, diagnostic treatment"
+  },
+  {
+    "code": "03436",
+    "description": "Therapy, supportive intervention"
+  },
+  {
+    "code": "87279",
+    "description": "Screening, advanced care"
+  },
+  {
+    "code": "C2243",
+    "description": "Screening, basic treatment"
+  },
+  {
+    "code": "29001",
+    "description": "Examination, therapeutic care"
+  },
+  {
+    "code": "98024",
+    "description": "Imaging, complex test"
+  },
+  {
+    "code": "17034",
+    "description": "Screening, supportive care"
+  },
+  {
+    "code": "77115",
+    "description": "Screening, basic test"
+  },
+  {
+    "code": "68327",
+    "description": "Therapy, advanced intervention"
+  },
+  {
+    "code": "62905",
+    "description": "Screening, simple treatment"
+  },
+  {
+    "code": "71984",
+    "description": "Examination, complex treatment"
+  },
+  {
+    "code": "G5359",
+    "description": "Therapy, advanced treatment"
+  },
+  {
+    "code": "22291",
+    "description": "Examination, advanced intervention"
+  },
+  {
+    "code": "22942",
+    "description": "Imaging, basic intervention"
+  },
+  {
+    "code": "25345",
+    "description": "Screening, simple service"
+  },
+  {
+    "code": "79845",
+    "description": "Therapy, supportive treatment"
+  },
+  {
+    "code": "81004",
+    "description": "Imaging, complex service"
+  },
+  {
+    "code": "12221",
+    "description": "Screening, complex care"
+  },
+  {
+    "code": "05330",
+    "description": "Injection, complex treatment"
+  },
+  {
+    "code": "50903",
+    "description": "Consultation, preventive service"
+  },
+  {
+    "code": "67242",
+    "description": "Screening, advanced assessment"
+  },
+  {
+    "code": "76403",
+    "description": "Examination, advanced procedure"
+  },
+  {
+    "code": "C6336",
+    "description": "Screening, supportive test"
+  },
+  {
+    "code": "51800",
+    "description": "Injection, supportive care"
+  },
+  {
+    "code": "C3290",
+    "description": "Consultation, simple service"
+  },
+  {
+    "code": "81180",
+    "description": "Screening, diagnostic service"
+  },
+  {
+    "code": "38730",
+    "description": "Screening, simple treatment"
+  },
+  {
+    "code": "05292",
+    "description": "Biopsy, basic service"
+  },
+  {
+    "code": "01203",
+    "description": "Biopsy, diagnostic test"
+  },
+  {
+    "code": "32239",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "04587",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "88990",
+    "description": "Surgery, advanced intervention"
+  },
+  {
+    "code": "79218",
+    "description": "Therapy, supportive care"
+  },
+  {
+    "code": "C3852",
+    "description": "Imaging, diagnostic intervention"
+  },
+  {
+    "code": "92420",
+    "description": "Surgery, advanced service"
+  },
+  {
+    "code": "24735",
+    "description": "Biopsy, basic intervention"
+  },
+  {
+    "code": "G2981",
+    "description": "Evaluation, preventive treatment"
+  },
+  {
+    "code": "45686",
+    "description": "Therapy, basic test"
+  },
+  {
+    "code": "33437",
+    "description": "Consultation, therapeutic test"
+  },
+  {
+    "code": "30304",
+    "description": "Therapy, complex procedure"
+  },
+  {
+    "code": "68651",
+    "description": "Consultation, simple treatment"
+  },
+  {
+    "code": "21950",
+    "description": "Biopsy, complex procedure"
+  },
+  {
+    "code": "38570",
+    "description": "Screening, complex intervention"
+  },
+  {
+    "code": "B1257",
+    "description": "Screening, supportive service"
+  },
+  {
+    "code": "34357",
+    "description": "Consultation, preventive test"
+  },
+  {
+    "code": "15381",
+    "description": "Surgery, diagnostic intervention"
+  },
+  {
+    "code": "74944",
+    "description": "Therapy, diagnostic intervention"
+  },
+  {
+    "code": "A3165",
+    "description": "Evaluation, supportive treatment"
+  },
+  {
+    "code": "25731",
+    "description": "Therapy, advanced treatment"
+  },
+  {
+    "code": "86564",
+    "description": "Examination, complex procedure"
+  },
+  {
+    "code": "12629",
+    "description": "Evaluation, diagnostic treatment"
+  },
+  {
+    "code": "62475",
+    "description": "Biopsy, therapeutic procedure"
+  },
+  {
+    "code": "A4502",
+    "description": "Imaging, complex treatment"
+  },
+  {
+    "code": "36964",
+    "description": "Screening, diagnostic service"
+  },
+  {
+    "code": "C8201",
+    "description": "Imaging, preventive assessment"
+  },
+  {
+    "code": "06538",
+    "description": "Biopsy, therapeutic intervention"
+  },
+  {
+    "code": "C8547",
+    "description": "Surgery, advanced care"
+  },
+  {
+    "code": "13438",
+    "description": "Injection, complex service"
+  },
+  {
+    "code": "G1856",
+    "description": "Biopsy, preventive intervention"
+  },
+  {
+    "code": "35127",
+    "description": "Evaluation, complex intervention"
+  },
+  {
+    "code": "37576",
+    "description": "Biopsy, diagnostic procedure"
+  },
+  {
+    "code": "G2053",
+    "description": "Evaluation, supportive service"
+  },
+  {
+    "code": "55477",
+    "description": "Examination, complex assessment"
+  },
+  {
+    "code": "10946",
+    "description": "Consultation, preventive service"
+  },
+  {
+    "code": "91671",
+    "description": "Biopsy, advanced intervention"
+  },
+  {
+    "code": "G5794",
+    "description": "Screening, preventive service"
+  },
+  {
+    "code": "36779",
+    "description": "Examination, therapeutic care"
+  },
+  {
+    "code": "39708",
+    "description": "Injection, preventive service"
+  },
+  {
+    "code": "70632",
+    "description": "Surgery, therapeutic intervention"
+  },
+  {
+    "code": "34333",
+    "description": "Injection, supportive service"
+  },
+  {
+    "code": "37043",
+    "description": "Surgery, therapeutic service"
+  },
+  {
+    "code": "G4441",
+    "description": "Injection, complex intervention"
+  },
+  {
+    "code": "58284",
+    "description": "Surgery, supportive treatment"
+  },
+  {
+    "code": "41068",
+    "description": "Imaging, simple service"
+  },
+  {
+    "code": "98607",
+    "description": "Evaluation, diagnostic intervention"
+  },
+  {
+    "code": "88918",
+    "description": "Surgery, complex intervention"
+  },
+  {
+    "code": "60642",
+    "description": "Biopsy, preventive service"
+  },
+  {
+    "code": "64363",
+    "description": "Examination, therapeutic procedure"
+  },
+  {
+    "code": "92605",
+    "description": "Examination, complex assessment"
+  },
+  {
+    "code": "61860",
+    "description": "Imaging, diagnostic procedure"
+  },
+  {
+    "code": "98685",
+    "description": "Evaluation, therapeutic care"
+  },
+  {
+    "code": "28165",
+    "description": "Evaluation, advanced procedure"
+  },
+  {
+    "code": "11989",
+    "description": "Evaluation, complex intervention"
+  },
+  {
+    "code": "30011",
+    "description": "Examination, diagnostic test"
+  },
+  {
+    "code": "B0988",
+    "description": "Injection, preventive care"
+  },
+  {
+    "code": "65721",
+    "description": "Examination, simple intervention"
+  },
+  {
+    "code": "97363",
+    "description": "Therapy, diagnostic treatment"
+  },
+  {
+    "code": "86988",
+    "description": "Evaluation, complex service"
+  },
+  {
+    "code": "G5254",
+    "description": "Injection, advanced assessment"
+  },
+  {
+    "code": "00980",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "13360",
+    "description": "Screening, advanced procedure"
+  },
+  {
+    "code": "58894",
+    "description": "Injection, complex assessment"
+  },
+  {
+    "code": "96867",
+    "description": "Consultation, diagnostic intervention"
+  },
+  {
+    "code": "04029",
+    "description": "Surgery, complex intervention"
+  },
+  {
+    "code": "20174",
+    "description": "Imaging, simple test"
+  },
+  {
+    "code": "63002",
+    "description": "Injection, simple intervention"
+  },
+  {
+    "code": "53307",
+    "description": "Biopsy, diagnostic service"
+  },
+  {
+    "code": "53772",
+    "description": "Injection, advanced care"
+  },
+  {
+    "code": "A0174",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "99302",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "80848",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "06767",
+    "description": "Screening, basic care"
+  },
+  {
+    "code": "A5810",
+    "description": "Consultation, complex procedure"
+  },
+  {
+    "code": "77089",
+    "description": "Examination, complex test"
+  },
+  {
+    "code": "26383",
+    "description": "Consultation, therapeutic care"
+  },
+  {
+    "code": "25210",
+    "description": "Injection, basic procedure"
+  },
+  {
+    "code": "57199",
+    "description": "Therapy, simple intervention"
+  },
+  {
+    "code": "46958",
+    "description": "Screening, therapeutic care"
+  },
+  {
+    "code": "B0301",
+    "description": "Imaging, therapeutic service"
+  },
+  {
+    "code": "17727",
+    "description": "Injection, basic service"
+  },
+  {
+    "code": "99410",
+    "description": "Injection, therapeutic assessment"
+  },
+  {
+    "code": "82610",
+    "description": "Surgery, preventive treatment"
+  },
+  {
+    "code": "47581",
+    "description": "Biopsy, advanced test"
+  },
+  {
+    "code": "53981",
+    "description": "Surgery, advanced care"
+  },
+  {
+    "code": "28656",
+    "description": "Evaluation, basic service"
+  },
+  {
+    "code": "43155",
+    "description": "Screening, advanced service"
+  },
+  {
+    "code": "54655",
+    "description": "Screening, complex care"
+  },
+  {
+    "code": "38561",
+    "description": "Imaging, simple treatment"
+  },
+  {
+    "code": "79855",
+    "description": "Screening, supportive assessment"
+  },
+  {
+    "code": "14565",
+    "description": "Consultation, complex care"
+  },
+  {
+    "code": "79789",
+    "description": "Biopsy, simple assessment"
+  },
+  {
+    "code": "21661",
+    "description": "Evaluation, preventive treatment"
+  },
+  {
+    "code": "60497",
+    "description": "Imaging, basic treatment"
+  },
+  {
+    "code": "72142",
+    "description": "Screening, therapeutic intervention"
+  },
+  {
+    "code": "67146",
+    "description": "Screening, supportive test"
+  },
+  {
+    "code": "G5066",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "25931",
+    "description": "Therapy, preventive assessment"
+  },
+  {
+    "code": "87650",
+    "description": "Consultation, simple intervention"
+  },
+  {
+    "code": "G5850",
+    "description": "Injection, preventive procedure"
+  },
+  {
+    "code": "96896",
+    "description": "Evaluation, therapeutic care"
+  },
+  {
+    "code": "39065",
+    "description": "Evaluation, diagnostic test"
+  },
+  {
+    "code": "31673",
+    "description": "Injection, advanced intervention"
+  },
+  {
+    "code": "31055",
+    "description": "Surgery, preventive treatment"
+  },
+  {
+    "code": "72562",
+    "description": "Surgery, advanced service"
+  },
+  {
+    "code": "48306",
+    "description": "Therapy, diagnostic test"
+  },
+  {
+    "code": "02000",
+    "description": "Biopsy, supportive test"
+  },
+  {
+    "code": "C6672",
+    "description": "Examination, supportive care"
+  },
+  {
+    "code": "B3594",
+    "description": "Consultation, advanced test"
+  },
+  {
+    "code": "46871",
+    "description": "Therapy, preventive service"
+  },
+  {
+    "code": "13050",
+    "description": "Evaluation, complex test"
+  },
+  {
+    "code": "B2245",
+    "description": "Examination, preventive treatment"
+  },
+  {
+    "code": "A5865",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "94630",
+    "description": "Evaluation, simple intervention"
+  },
+  {
+    "code": "04784",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "12086",
+    "description": "Surgery, therapeutic care"
+  },
+  {
+    "code": "01216",
+    "description": "Screening, advanced procedure"
+  },
+  {
+    "code": "47578",
+    "description": "Injection, complex treatment"
+  },
+  {
+    "code": "48430",
+    "description": "Imaging, advanced service"
+  },
+  {
+    "code": "15181",
+    "description": "Surgery, advanced care"
+  },
+  {
+    "code": "36981",
+    "description": "Imaging, diagnostic service"
+  },
+  {
+    "code": "B2216",
+    "description": "Imaging, therapeutic care"
+  },
+  {
+    "code": "A7005",
+    "description": "Screening, basic treatment"
+  },
+  {
+    "code": "02125",
+    "description": "Surgery, preventive service"
+  },
+  {
+    "code": "25401",
+    "description": "Therapy, basic care"
+  },
+  {
+    "code": "B8531",
+    "description": "Consultation, supportive test"
+  },
+  {
+    "code": "72688",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "24100",
+    "description": "Screening, preventive assessment"
+  },
+  {
+    "code": "B7190",
+    "description": "Consultation, therapeutic procedure"
+  },
+  {
+    "code": "A7765",
+    "description": "Consultation, preventive test"
+  },
+  {
+    "code": "60685",
+    "description": "Examination, diagnostic test"
+  },
+  {
+    "code": "61008",
+    "description": "Screening, complex care"
+  },
+  {
+    "code": "62961",
+    "description": "Therapy, complex intervention"
+  },
+  {
+    "code": "92797",
+    "description": "Therapy, basic treatment"
+  },
+  {
+    "code": "51778",
+    "description": "Surgery, therapeutic care"
+  },
+  {
+    "code": "A2805",
+    "description": "Screening, basic intervention"
+  },
+  {
+    "code": "B9959",
+    "description": "Imaging, basic procedure"
+  },
+  {
+    "code": "23990",
+    "description": "Biopsy, advanced intervention"
+  },
+  {
+    "code": "81690",
+    "description": "Therapy, supportive service"
+  },
+  {
+    "code": "30422",
+    "description": "Surgery, preventive care"
+  },
+  {
+    "code": "74643",
+    "description": "Imaging, simple care"
+  },
+  {
+    "code": "04030",
+    "description": "Screening, preventive intervention"
+  },
+  {
+    "code": "60270",
+    "description": "Evaluation, advanced procedure"
+  },
+  {
+    "code": "94814",
+    "description": "Biopsy, simple assessment"
+  },
+  {
+    "code": "04307",
+    "description": "Imaging, supportive service"
+  },
+  {
+    "code": "49909",
+    "description": "Therapy, preventive service"
+  },
+  {
+    "code": "C6928",
+    "description": "Screening, basic service"
+  },
+  {
+    "code": "67420",
+    "description": "Surgery, therapeutic test"
+  },
+  {
+    "code": "61424",
+    "description": "Biopsy, supportive test"
+  },
+  {
+    "code": "G1352",
+    "description": "Evaluation, diagnostic care"
+  },
+  {
+    "code": "84552",
+    "description": "Imaging, preventive treatment"
+  },
+  {
+    "code": "22451",
+    "description": "Consultation, preventive care"
+  },
+  {
+    "code": "28844",
+    "description": "Injection, basic service"
+  },
+  {
+    "code": "C8833",
+    "description": "Consultation, complex intervention"
+  },
+  {
+    "code": "97254",
+    "description": "Biopsy, diagnostic care"
+  },
+  {
+    "code": "52333",
+    "description": "Evaluation, advanced service"
+  },
+  {
+    "code": "34356",
+    "description": "Evaluation, diagnostic procedure"
+  },
+  {
+    "code": "20461",
+    "description": "Surgery, therapeutic service"
+  },
+  {
+    "code": "96409",
+    "description": "Evaluation, simple care"
+  },
+  {
+    "code": "G1559",
+    "description": "Consultation, diagnostic procedure"
+  },
+  {
+    "code": "42448",
+    "description": "Examination, advanced assessment"
+  },
+  {
+    "code": "81355",
+    "description": "Evaluation, basic assessment"
+  },
+  {
+    "code": "44992",
+    "description": "Biopsy, therapeutic intervention"
+  },
+  {
+    "code": "57217",
+    "description": "Injection, preventive test"
+  },
+  {
+    "code": "28441",
+    "description": "Evaluation, diagnostic service"
+  },
+  {
+    "code": "G5435",
+    "description": "Surgery, preventive service"
+  },
+  {
+    "code": "G9705",
+    "description": "Examination, diagnostic care"
+  },
+  {
+    "code": "58697",
+    "description": "Evaluation, simple intervention"
+  },
+  {
+    "code": "A1030",
+    "description": "Therapy, diagnostic procedure"
+  },
+  {
+    "code": "36337",
+    "description": "Screening, supportive intervention"
+  },
+  {
+    "code": "B0214",
+    "description": "Biopsy, diagnostic intervention"
+  },
+  {
+    "code": "81568",
+    "description": "Therapy, basic treatment"
+  },
+  {
+    "code": "98276",
+    "description": "Surgery, supportive test"
+  },
+  {
+    "code": "A8638",
+    "description": "Examination, diagnostic test"
+  },
+  {
+    "code": "A0887",
+    "description": "Biopsy, complex care"
+  },
+  {
+    "code": "61731",
+    "description": "Surgery, therapeutic procedure"
+  },
+  {
+    "code": "G7505",
+    "description": "Injection, complex assessment"
+  },
+  {
+    "code": "50551",
+    "description": "Consultation, advanced procedure"
+  },
+  {
+    "code": "42908",
+    "description": "Surgery, complex procedure"
+  },
+  {
+    "code": "B2403",
+    "description": "Injection, supportive care"
+  },
+  {
+    "code": "46806",
+    "description": "Consultation, simple care"
+  },
+  {
+    "code": "23664",
+    "description": "Injection, basic intervention"
+  },
+  {
+    "code": "27774",
+    "description": "Examination, basic care"
+  },
+  {
+    "code": "00873",
+    "description": "Consultation, simple treatment"
+  },
+  {
+    "code": "14730",
+    "description": "Consultation, advanced care"
+  },
+  {
+    "code": "C3879",
+    "description": "Imaging, basic treatment"
+  },
+  {
+    "code": "84951",
+    "description": "Evaluation, therapeutic intervention"
+  },
+  {
+    "code": "A8566",
+    "description": "Imaging, advanced assessment"
+  },
+  {
+    "code": "87154",
+    "description": "Evaluation, therapeutic care"
+  },
+  {
+    "code": "37683",
+    "description": "Examination, advanced care"
+  },
+  {
+    "code": "44000",
+    "description": "Consultation, advanced test"
+  },
+  {
+    "code": "43656",
+    "description": "Injection, advanced care"
+  },
+  {
+    "code": "45753",
+    "description": "Imaging, simple intervention"
+  },
+  {
+    "code": "22937",
+    "description": "Examination, advanced intervention"
+  },
+  {
+    "code": "B5572",
+    "description": "Examination, diagnostic treatment"
+  },
+  {
+    "code": "60969",
+    "description": "Evaluation, therapeutic procedure"
+  },
+  {
+    "code": "G8570",
+    "description": "Surgery, complex assessment"
+  },
+  {
+    "code": "85611",
+    "description": "Consultation, complex procedure"
+  },
+  {
+    "code": "C6185",
+    "description": "Surgery, preventive intervention"
+  },
+  {
+    "code": "93412",
+    "description": "Imaging, basic test"
+  },
+  {
+    "code": "97225",
+    "description": "Screening, advanced procedure"
+  },
+  {
+    "code": "96522",
+    "description": "Injection, supportive procedure"
+  },
+  {
+    "code": "G5418",
+    "description": "Consultation, therapeutic treatment"
+  },
+  {
+    "code": "89612",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "36257",
+    "description": "Injection, basic procedure"
+  },
+  {
+    "code": "C5673",
+    "description": "Therapy, simple service"
+  },
+  {
+    "code": "56552",
+    "description": "Injection, preventive care"
+  },
+  {
+    "code": "62441",
+    "description": "Surgery, simple test"
+  },
+  {
+    "code": "51993",
+    "description": "Injection, simple treatment"
+  },
+  {
+    "code": "68536",
+    "description": "Screening, diagnostic intervention"
+  },
+  {
+    "code": "41783",
+    "description": "Imaging, simple assessment"
+  },
+  {
+    "code": "83088",
+    "description": "Evaluation, preventive procedure"
+  },
+  {
+    "code": "17765",
+    "description": "Biopsy, diagnostic procedure"
+  },
+  {
+    "code": "11125",
+    "description": "Injection, complex intervention"
+  },
+  {
+    "code": "45635",
+    "description": "Screening, complex treatment"
+  },
+  {
+    "code": "94235",
+    "description": "Therapy, preventive service"
+  },
+  {
+    "code": "A8233",
+    "description": "Injection, simple assessment"
+  },
+  {
+    "code": "70681",
+    "description": "Consultation, advanced test"
+  },
+  {
+    "code": "66226",
+    "description": "Consultation, basic assessment"
+  },
+  {
+    "code": "06179",
+    "description": "Screening, diagnostic assessment"
+  },
+  {
+    "code": "A2170",
+    "description": "Injection, preventive procedure"
+  },
+  {
+    "code": "41986",
+    "description": "Consultation, therapeutic treatment"
+  },
+  {
+    "code": "B2138",
+    "description": "Injection, complex procedure"
+  },
+  {
+    "code": "51036",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "12199",
+    "description": "Surgery, preventive treatment"
+  },
+  {
+    "code": "G0849",
+    "description": "Examination, advanced procedure"
+  },
+  {
+    "code": "25014",
+    "description": "Surgery, diagnostic assessment"
+  },
+  {
+    "code": "14003",
+    "description": "Evaluation, therapeutic intervention"
+  },
+  {
+    "code": "02915",
+    "description": "Imaging, preventive procedure"
+  },
+  {
+    "code": "81554",
+    "description": "Screening, therapeutic treatment"
+  },
+  {
+    "code": "23780",
+    "description": "Surgery, advanced assessment"
+  },
+  {
+    "code": "60107",
+    "description": "Therapy, basic assessment"
+  },
+  {
+    "code": "57983",
+    "description": "Injection, therapeutic intervention"
+  },
+  {
+    "code": "58336",
+    "description": "Surgery, diagnostic test"
+  },
+  {
+    "code": "C8622",
+    "description": "Screening, complex assessment"
+  },
+  {
+    "code": "B7237",
+    "description": "Injection, basic assessment"
+  },
+  {
+    "code": "G7861",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "G5897",
+    "description": "Surgery, supportive procedure"
+  },
+  {
+    "code": "76076",
+    "description": "Biopsy, simple treatment"
+  },
+  {
+    "code": "88006",
+    "description": "Screening, simple care"
+  },
+  {
+    "code": "A0796",
+    "description": "Imaging, simple test"
+  },
+  {
+    "code": "88324",
+    "description": "Evaluation, preventive service"
+  },
+  {
+    "code": "01370",
+    "description": "Imaging, therapeutic assessment"
+  },
+  {
+    "code": "22399",
+    "description": "Consultation, complex intervention"
+  },
+  {
+    "code": "35229",
+    "description": "Surgery, supportive test"
+  },
+  {
+    "code": "B9104",
+    "description": "Examination, diagnostic intervention"
+  },
+  {
+    "code": "62971",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "53484",
+    "description": "Biopsy, therapeutic treatment"
+  },
+  {
+    "code": "A2487",
+    "description": "Biopsy, basic treatment"
+  },
+  {
+    "code": "A6211",
+    "description": "Biopsy, therapeutic assessment"
+  },
+  {
+    "code": "93132",
+    "description": "Imaging, simple intervention"
+  },
+  {
+    "code": "58657",
+    "description": "Injection, therapeutic treatment"
+  },
+  {
+    "code": "45853",
+    "description": "Screening, therapeutic service"
+  },
+  {
+    "code": "01002",
+    "description": "Imaging, complex assessment"
+  },
+  {
+    "code": "29597",
+    "description": "Screening, therapeutic care"
+  },
+  {
+    "code": "99532",
+    "description": "Evaluation, complex treatment"
+  },
+  {
+    "code": "94354",
+    "description": "Imaging, complex service"
+  },
+  {
+    "code": "G4064",
+    "description": "Surgery, preventive assessment"
+  },
+  {
+    "code": "24942",
+    "description": "Evaluation, complex procedure"
+  },
+  {
+    "code": "C8751",
+    "description": "Evaluation, complex treatment"
+  },
+  {
+    "code": "93145",
+    "description": "Examination, preventive intervention"
+  },
+  {
+    "code": "31554",
+    "description": "Therapy, supportive test"
+  },
+  {
+    "code": "15732",
+    "description": "Examination, preventive care"
+  },
+  {
+    "code": "94106",
+    "description": "Consultation, supportive assessment"
+  },
+  {
+    "code": "92093",
+    "description": "Imaging, advanced procedure"
+  },
+  {
+    "code": "B6125",
+    "description": "Examination, diagnostic intervention"
+  },
+  {
+    "code": "65168",
+    "description": "Biopsy, supportive service"
+  },
+  {
+    "code": "81157",
+    "description": "Examination, advanced intervention"
+  },
+  {
+    "code": "16847",
+    "description": "Surgery, supportive treatment"
+  },
+  {
+    "code": "A0500",
+    "description": "Consultation, preventive care"
+  },
+  {
+    "code": "92124",
+    "description": "Imaging, supportive treatment"
+  },
+  {
+    "code": "31768",
+    "description": "Imaging, advanced treatment"
+  },
+  {
+    "code": "19325",
+    "description": "Examination, supportive test"
+  },
+  {
+    "code": "35806",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "00083",
+    "description": "Examination, preventive service"
+  },
+  {
+    "code": "54837",
+    "description": "Consultation, diagnostic procedure"
+  },
+  {
+    "code": "A0719",
+    "description": "Injection, supportive procedure"
+  },
+  {
+    "code": "B9899",
+    "description": "Therapy, therapeutic care"
+  },
+  {
+    "code": "56287",
+    "description": "Injection, complex test"
+  },
+  {
+    "code": "C6847",
+    "description": "Biopsy, diagnostic test"
+  },
+  {
+    "code": "06329",
+    "description": "Examination, supportive procedure"
+  },
+  {
+    "code": "34684",
+    "description": "Therapy, therapeutic service"
+  },
+  {
+    "code": "00519",
+    "description": "Surgery, complex test"
+  },
+  {
+    "code": "01633",
+    "description": "Consultation, diagnostic intervention"
+  },
+  {
+    "code": "A6421",
+    "description": "Screening, therapeutic test"
+  },
+  {
+    "code": "97507",
+    "description": "Injection, preventive assessment"
+  },
+  {
+    "code": "67224",
+    "description": "Evaluation, therapeutic assessment"
+  },
+  {
+    "code": "48862",
+    "description": "Injection, diagnostic service"
+  },
+  {
+    "code": "64124",
+    "description": "Evaluation, advanced assessment"
+  },
+  {
+    "code": "23834",
+    "description": "Therapy, supportive intervention"
+  },
+  {
+    "code": "02111",
+    "description": "Examination, preventive assessment"
+  },
+  {
+    "code": "39973",
+    "description": "Therapy, diagnostic assessment"
+  },
+  {
+    "code": "22713",
+    "description": "Injection, complex intervention"
+  },
+  {
+    "code": "99564",
+    "description": "Therapy, supportive procedure"
+  },
+  {
+    "code": "81148",
+    "description": "Consultation, simple service"
+  },
+  {
+    "code": "81825",
+    "description": "Examination, therapeutic test"
+  },
+  {
+    "code": "54108",
+    "description": "Evaluation, supportive assessment"
+  },
+  {
+    "code": "73752",
+    "description": "Consultation, complex assessment"
+  },
+  {
+    "code": "B3279",
+    "description": "Biopsy, complex care"
+  },
+  {
+    "code": "42283",
+    "description": "Injection, advanced test"
+  },
+  {
+    "code": "47836",
+    "description": "Screening, preventive treatment"
+  },
+  {
+    "code": "85305",
+    "description": "Examination, diagnostic care"
+  },
+  {
+    "code": "C1926",
+    "description": "Examination, complex intervention"
+  },
+  {
+    "code": "59392",
+    "description": "Injection, complex service"
+  },
+  {
+    "code": "B1719",
+    "description": "Surgery, supportive procedure"
+  },
+  {
+    "code": "29809",
+    "description": "Evaluation, preventive assessment"
+  },
+  {
+    "code": "50100",
+    "description": "Evaluation, diagnostic care"
+  },
+  {
+    "code": "37849",
+    "description": "Injection, basic intervention"
+  },
+  {
+    "code": "27940",
+    "description": "Consultation, preventive treatment"
+  },
+  {
+    "code": "27955",
+    "description": "Screening, therapeutic assessment"
+  },
+  {
+    "code": "89883",
+    "description": "Imaging, advanced care"
+  },
+  {
+    "code": "84193",
+    "description": "Therapy, advanced intervention"
+  },
+  {
+    "code": "09607",
+    "description": "Biopsy, preventive care"
+  },
+  {
+    "code": "47015",
+    "description": "Evaluation, supportive assessment"
+  },
+  {
+    "code": "86640",
+    "description": "Examination, advanced procedure"
+  },
+  {
+    "code": "61175",
+    "description": "Screening, supportive intervention"
+  },
+  {
+    "code": "B4146",
+    "description": "Screening, preventive test"
+  },
+  {
+    "code": "B0657",
+    "description": "Examination, complex treatment"
+  },
+  {
+    "code": "G7249",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "91212",
+    "description": "Evaluation, advanced procedure"
+  },
+  {
+    "code": "57984",
+    "description": "Surgery, simple procedure"
+  },
+  {
+    "code": "79672",
+    "description": "Examination, simple treatment"
+  },
+  {
+    "code": "82806",
+    "description": "Therapy, simple treatment"
+  },
+  {
+    "code": "85213",
+    "description": "Therapy, supportive procedure"
+  },
+  {
+    "code": "G8629",
+    "description": "Examination, therapeutic assessment"
+  },
+  {
+    "code": "82978",
+    "description": "Examination, preventive test"
+  },
+  {
+    "code": "61351",
+    "description": "Consultation, simple test"
+  },
+  {
+    "code": "88584",
+    "description": "Consultation, simple treatment"
+  },
+  {
+    "code": "17011",
+    "description": "Injection, advanced procedure"
+  },
+  {
+    "code": "76620",
+    "description": "Therapy, advanced care"
+  },
+  {
+    "code": "16988",
+    "description": "Surgery, advanced treatment"
+  },
+  {
+    "code": "85091",
+    "description": "Surgery, supportive treatment"
+  },
+  {
+    "code": "G8616",
+    "description": "Biopsy, complex assessment"
+  },
+  {
+    "code": "B0877",
+    "description": "Biopsy, supportive test"
+  },
+  {
+    "code": "23964",
+    "description": "Surgery, basic intervention"
+  },
+  {
+    "code": "22706",
+    "description": "Surgery, simple assessment"
+  },
+  {
+    "code": "99413",
+    "description": "Injection, therapeutic care"
+  },
+  {
+    "code": "43446",
+    "description": "Examination, advanced assessment"
+  },
+  {
+    "code": "22024",
+    "description": "Evaluation, diagnostic service"
+  },
+  {
+    "code": "74005",
+    "description": "Biopsy, supportive intervention"
+  },
+  {
+    "code": "55449",
+    "description": "Biopsy, therapeutic test"
+  },
+  {
+    "code": "23942",
+    "description": "Injection, therapeutic treatment"
+  },
+  {
+    "code": "56336",
+    "description": "Examination, basic service"
+  },
+  {
+    "code": "99548",
+    "description": "Therapy, advanced service"
+  },
+  {
+    "code": "G1681",
+    "description": "Examination, basic intervention"
+  },
+  {
+    "code": "66861",
+    "description": "Surgery, supportive care"
+  },
+  {
+    "code": "13049",
+    "description": "Imaging, therapeutic care"
+  },
+  {
+    "code": "B0703",
+    "description": "Evaluation, advanced care"
+  },
+  {
+    "code": "81534",
+    "description": "Screening, complex treatment"
+  },
+  {
+    "code": "97241",
+    "description": "Evaluation, diagnostic service"
+  },
+  {
+    "code": "86387",
+    "description": "Surgery, basic test"
+  },
+  {
+    "code": "B1483",
+    "description": "Examination, supportive procedure"
+  },
+  {
+    "code": "35739",
+    "description": "Surgery, advanced test"
+  },
+  {
+    "code": "14455",
+    "description": "Evaluation, supportive procedure"
+  },
+  {
+    "code": "44395",
+    "description": "Therapy, supportive test"
+  },
+  {
+    "code": "22404",
+    "description": "Consultation, supportive intervention"
+  },
+  {
+    "code": "40758",
+    "description": "Screening, advanced intervention"
+  },
+  {
+    "code": "B1951",
+    "description": "Injection, preventive procedure"
+  },
+  {
+    "code": "36428",
+    "description": "Screening, simple procedure"
+  },
+  {
+    "code": "52187",
+    "description": "Therapy, complex procedure"
+  },
+  {
+    "code": "03909",
+    "description": "Consultation, advanced care"
+  },
+  {
+    "code": "89942",
+    "description": "Therapy, therapeutic treatment"
+  },
+  {
+    "code": "11762",
+    "description": "Injection, diagnostic treatment"
+  },
+  {
+    "code": "G0336",
+    "description": "Surgery, preventive service"
+  },
+  {
+    "code": "60338",
+    "description": "Screening, diagnostic procedure"
+  },
+  {
+    "code": "86544",
+    "description": "Consultation, preventive treatment"
+  },
+  {
+    "code": "55398",
+    "description": "Evaluation, simple care"
+  },
+  {
+    "code": "85435",
+    "description": "Evaluation, advanced care"
+  },
+  {
+    "code": "C7393",
+    "description": "Imaging, supportive assessment"
+  },
+  {
+    "code": "93186",
+    "description": "Evaluation, simple procedure"
+  },
+  {
+    "code": "51555",
+    "description": "Biopsy, preventive procedure"
+  },
+  {
+    "code": "45227",
+    "description": "Injection, diagnostic test"
+  },
+  {
+    "code": "11731",
+    "description": "Therapy, preventive care"
+  },
+  {
+    "code": "73981",
+    "description": "Injection, therapeutic intervention"
+  },
+  {
+    "code": "G1151",
+    "description": "Screening, complex test"
+  },
+  {
+    "code": "17636",
+    "description": "Evaluation, advanced test"
+  },
+  {
+    "code": "47165",
+    "description": "Biopsy, therapeutic procedure"
+  },
+  {
+    "code": "95928",
+    "description": "Injection, therapeutic procedure"
+  },
+  {
+    "code": "09807",
+    "description": "Imaging, diagnostic treatment"
+  },
+  {
+    "code": "69488",
+    "description": "Imaging, simple care"
+  },
+  {
+    "code": "77039",
+    "description": "Surgery, basic service"
+  },
+  {
+    "code": "02177",
+    "description": "Surgery, preventive procedure"
+  },
+  {
+    "code": "60128",
+    "description": "Examination, supportive service"
+  },
+  {
+    "code": "21010",
+    "description": "Therapy, preventive treatment"
+  },
+  {
+    "code": "67250",
+    "description": "Therapy, basic care"
+  },
+  {
+    "code": "B0519",
+    "description": "Surgery, supportive care"
+  },
+  {
+    "code": "95821",
+    "description": "Injection, advanced assessment"
+  },
+  {
+    "code": "76916",
+    "description": "Consultation, complex care"
+  },
+  {
+    "code": "11674",
+    "description": "Examination, diagnostic test"
+  },
+  {
+    "code": "33100",
+    "description": "Screening, simple treatment"
+  },
+  {
+    "code": "14946",
+    "description": "Imaging, simple care"
+  }
 ]

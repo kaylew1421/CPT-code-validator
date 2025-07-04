@@ -1,0 +1,23 @@
+{
+  "name": "cpt-validator",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylew1421/CPT-code-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaylew1421/CPT-code-validator/issues"
+  },
+  "homepage": "https://github.com/kaylew1421/CPT-code-validator#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}

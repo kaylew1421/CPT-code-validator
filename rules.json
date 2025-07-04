@@ -1,0 +1,1853 @@
+{
+  "10000": {
+    "Aetna": "Requires documentation of procedure.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10011": {
+    "Humana": "Requires clinical documentation before approval.",
+    "UnitedHealth": "No restrictions.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10017": {
+    "BlueCross": "No prior authorization required.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10018": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10023": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10024": {
+    "UnitedHealth": "No prior authorization required.",
+    "Aetna": "Prior authorization required for new patients.",
+    "Humana": "No prior authorization required."
+  },
+  "10025": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10029": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Aetna": "No prior authorization required."
+  },
+  "10030": {
+    "BlueCross": "No restrictions.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Cigna": "No restrictions."
+  },
+  "10031": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10034": {
+    "UnitedHealth": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Prior authorization required for new patients.",
+    "Aetna": "Requires documentation of procedure."
+  },
+  "10035": {
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10037": {
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10040": {
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10041": {
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10042": {
+    "Cigna": "No restrictions.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10043": {
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10044": {
+    "BlueCross": "No restrictions.",
+    "Cigna": "No prior authorization required."
+  },
+  "10045": {
+    "Humana": "Prior authorization required for new patients.",
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10047": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10049": {
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10050": {
+    "Aetna": "No restrictions.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10051": {
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Cigna": "No restrictions."
+  },
+  "10052": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10053": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10056": {
+    "BlueCross": "No prior authorization required.",
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10058": {
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10065": {
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10068": {
+    "UnitedHealth": "No prior authorization required.",
+    "Aetna": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10069": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Covered under preventive services without auth.",
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10071": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10073": {
+    "BlueCross": "No prior authorization required.",
+    "Humana": "No restrictions."
+  },
+  "10075": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Cigna": "No prior authorization required.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10078": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10079": {
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10080": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "Cigna": "No restrictions.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10082": {
+    "Aetna": "No restrictions.",
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10083": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Aetna": "No prior authorization required."
+  },
+  "10084": {
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10085": {
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10087": {
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "Aetna": "No restrictions.",
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10089": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Requires clinical documentation before approval.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10092": {
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10093": {
+    "UnitedHealth": "Prior authorization required for new patients."
+  },
+  "10094": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10095": {
+    "Aetna": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10098": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "Requires clinical documentation before approval.",
+    "Humana": "No prior authorization required."
+  },
+  "10100": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10101": {
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10102": {
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Humana": "Covered under preventive services without auth.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10103": {
+    "BlueCross": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10104": {
+    "Cigna": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10105": {
+    "Cigna": "Prior authorization required for new patients.",
+    "UnitedHealth": "Prior authorization required for new patients."
+  },
+  "10110": {
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10114": {
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10117": {
+    "Aetna": "No prior authorization required.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10123": {
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Cigna": "No prior authorization required.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10126": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Humana": "Prior authorization required for new patients.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10127": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10132": {
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10134": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "BlueCross": "Prior authorization required for new patients.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10135": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10137": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10144": {
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10148": {
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10149": {
+    "Cigna": "Covered under preventive services without auth.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10150": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10151": {
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10156": {
+    "Aetna": "No restrictions."
+  },
+  "10157": {
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10158": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10160": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Humana": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10163": {
+    "Cigna": "Covered under preventive services without auth.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10166": {
+    "Cigna": "Requires prior authorization for repeated procedures."
+  },
+  "10167": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10168": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10169": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10172": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "Covered under preventive services without auth.",
+    "Cigna": "No restrictions."
+  },
+  "10177": {
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10180": {
+    "Aetna": "Requires documentation of procedure.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10183": {
+    "Cigna": "No restrictions."
+  },
+  "10188": {
+    "Humana": "No restrictions.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10189": {
+    "Cigna": "No restrictions.",
+    "Humana": "No restrictions.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10190": {
+    "Cigna": "No prior authorization required.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10193": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10194": {
+    "Humana": "Requires documentation of procedure."
+  },
+  "10196": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10197": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10198": {
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10200": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10202": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Aetna": "No restrictions.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10203": {
+    "Cigna": "No restrictions.",
+    "Aetna": "Requires clinical documentation before approval.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10204": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10205": {
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Humana": "Prior authorization required for new patients.",
+    "UnitedHealth": "No restrictions."
+  },
+  "10214": {
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10215": {
+    "Cigna": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10220": {
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10221": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10226": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "Cigna": "No restrictions."
+  },
+  "10227": {
+    "BlueCross": "Covered under preventive services without auth.",
+    "Humana": "No prior authorization required."
+  },
+  "10229": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10233": {
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10236": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10237": {
+    "Cigna": "No restrictions.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10241": {
+    "Cigna": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10243": {
+    "Humana": "No restrictions.",
+    "Cigna": "No prior authorization required.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10249": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10251": {
+    "Humana": "Covered under preventive services without auth.",
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10253": {
+    "Cigna": "Requires clinical documentation before approval.",
+    "BlueCross": "No restrictions."
+  },
+  "10255": {
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10261": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "No prior authorization required."
+  },
+  "10263": {
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10264": {
+    "Aetna": "No prior authorization required.",
+    "Humana": "Requires documentation of procedure.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups."
+  },
+  "10266": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Aetna": "No restrictions."
+  },
+  "10267": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Humana": "Prior authorization required for new patients.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10269": {
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10271": {
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10272": {
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10275": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10276": {
+    "Cigna": "No restrictions."
+  },
+  "10277": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10278": {
+    "Humana": "Requires clinical documentation before approval.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10282": {
+    "Humana": "Prior authorization required for new patients.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10283": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10284": {
+    "Cigna": "Prior authorization required for new patients.",
+    "BlueCross": "Covered under preventive services without auth.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10286": {
+    "Humana": "Requires clinical documentation before approval.",
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10287": {
+    "Humana": "No prior authorization required."
+  },
+  "10291": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10295": {
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10296": {
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10298": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10301": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Aetna": "No restrictions."
+  },
+  "10302": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Requires documentation of procedure."
+  },
+  "10305": {
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10306": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10308": {
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10309": {
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10311": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10315": {
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10316": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10317": {
+    "Aetna": "No prior authorization required."
+  },
+  "10320": {
+    "BlueCross": "Covered under preventive services without auth.",
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10321": {
+    "UnitedHealth": "No restrictions."
+  },
+  "10322": {
+    "BlueCross": "Covered under preventive services without auth.",
+    "Humana": "No prior authorization required."
+  },
+  "10323": {
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10329": {
+    "Humana": "Requires documentation of procedure."
+  },
+  "10331": {
+    "Cigna": "Requires documentation of procedure.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10332": {
+    "BlueCross": "Requires documentation of procedure.",
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10333": {
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10336": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Humana": "No prior authorization required.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10337": {
+    "BlueCross": "No prior authorization required.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10338": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "UnitedHealth": "No restrictions.",
+    "Cigna": "No prior authorization required."
+  },
+  "10339": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10340": {
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10342": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10343": {
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Cigna": "No prior authorization required."
+  },
+  "10344": {
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10350": {
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10351": {
+    "Humana": "No restrictions.",
+    "BlueCross": "No prior authorization required."
+  },
+  "10356": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10359": {
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10363": {
+    "Cigna": "Requires clinical documentation before approval.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10365": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "BlueCross": "Covered under preventive services without auth.",
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10372": {
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10374": {
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10375": {
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10377": {
+    "Humana": "No prior authorization required.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10378": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10379": {
+    "BlueCross": "No restrictions.",
+    "Aetna": "No restrictions.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10381": {
+    "Humana": "Prior authorization required for new patients.",
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10383": {
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Humana": "Covered under preventive services without auth.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10384": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups."
+  },
+  "10386": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Humana": "Requires documentation of procedure.",
+    "UnitedHealth": "No restrictions."
+  },
+  "10387": {
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10389": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Humana": "Prior authorization required only for specific patient groups."
+  },
+  "10393": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Requires documentation of procedure."
+  },
+  "10394": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10395": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "Requires clinical documentation before approval.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10396": {
+    "Cigna": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10400": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Humana": "No restrictions.",
+    "BlueCross": "No restrictions."
+  },
+  "10401": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10404": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Aetna": "No restrictions."
+  },
+  "10406": {
+    "BlueCross": "No prior authorization required.",
+    "Aetna": "No restrictions."
+  },
+  "10407": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10410": {
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10412": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10417": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10422": {
+    "Humana": "Prior authorization required for new patients.",
+    "Aetna": "No prior authorization required."
+  },
+  "10423": {
+    "Humana": "Requires documentation of procedure.",
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Aetna": "No restrictions."
+  },
+  "10425": {
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10426": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10427": {
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10429": {
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10431": {
+    "Humana": "Requires clinical documentation before approval.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10432": {
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10434": {
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10438": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10439": {
+    "Humana": "Requires documentation of procedure."
+  },
+  "10440": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10445": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10446": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10450": {
+    "Aetna": "Requires documentation of procedure.",
+    "BlueCross": "Requires documentation of procedure.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10451": {
+    "Humana": "No restrictions."
+  },
+  "10452": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10456": {
+    "Cigna": "Requires documentation of procedure.",
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10460": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10461": {
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10463": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10464": {
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10465": {
+    "Humana": "Requires documentation of procedure.",
+    "BlueCross": "Requires documentation of procedure.",
+    "Aetna": "No prior authorization required."
+  },
+  "10468": {
+    "Aetna": "Requires documentation of procedure."
+  },
+  "10469": {
+    "Aetna": "No restrictions."
+  },
+  "10472": {
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10474": {
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10475": {
+    "Aetna": "No prior authorization required."
+  },
+  "10478": {
+    "Cigna": "Requires documentation of procedure.",
+    "BlueCross": "No restrictions."
+  },
+  "10480": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10481": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Aetna": "No prior authorization required.",
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10482": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups."
+  },
+  "10483": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Requires clinical documentation before approval.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10484": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "UnitedHealth": "No prior authorization required.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10487": {
+    "Humana": "No restrictions.",
+    "Aetna": "Covered under preventive services without auth.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10488": {
+    "Cigna": "Requires documentation of procedure.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10490": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10492": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10493": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10494": {
+    "Humana": "Requires documentation of procedure.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10495": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10497": {
+    "Cigna": "No prior authorization required."
+  },
+  "10498": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10499": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "Prior authorization required for new patients.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10504": {
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10507": {
+    "Aetna": "Covered under preventive services without auth.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10508": {
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10510": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10520": {
+    "Cigna": "Covered under preventive services without auth.",
+    "BlueCross": "Requires documentation of procedure.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10522": {
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10523": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10524": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10527": {
+    "Cigna": "No restrictions."
+  },
+  "10528": {
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10529": {
+    "BlueCross": "No restrictions.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10530": {
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10531": {
+    "Cigna": "No prior authorization required.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10533": {
+    "BlueCross": "No prior authorization required.",
+    "Cigna": "No restrictions.",
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10534": {
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10535": {
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10536": {
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10537": {
+    "Aetna": "Requires documentation of procedure.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10539": {
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10542": {
+    "Humana": "Requires clinical documentation before approval.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10543": {
+    "Aetna": "No restrictions.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10545": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "No restrictions."
+  },
+  "10547": {
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10548": {
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10550": {
+    "Aetna": "No restrictions."
+  },
+  "10551": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10552": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10555": {
+    "Cigna": "Requires documentation of procedure.",
+    "Humana": "No prior authorization required."
+  },
+  "10556": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "No restrictions."
+  },
+  "10558": {
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10560": {
+    "Humana": "Requires documentation of procedure.",
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Cigna": "Requires prior authorization for repeated procedures."
+  },
+  "10561": {
+    "Cigna": "No prior authorization required."
+  },
+  "10562": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10567": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10568": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10569": {
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10573": {
+    "BlueCross": "No restrictions.",
+    "Aetna": "Requires documentation of procedure."
+  },
+  "10577": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Cigna": "No prior authorization required."
+  },
+  "10579": {
+    "Cigna": "Covered under preventive services without auth.",
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10580": {
+    "Humana": "No restrictions.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10581": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "BlueCross": "Covered under preventive services without auth.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10585": {
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Aetna": "Prior authorization required for new patients.",
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10586": {
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10587": {
+    "Humana": "No restrictions.",
+    "BlueCross": "No restrictions."
+  },
+  "10588": {
+    "Humana": "No restrictions.",
+    "Aetna": "Requires documentation of procedure.",
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10589": {
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10591": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10592": {
+    "BlueCross": "No restrictions.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10594": {
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10601": {
+    "Humana": "Prior authorization required for new patients.",
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10605": {
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10606": {
+    "Cigna": "Prior authorization required for new patients.",
+    "UnitedHealth": "No restrictions.",
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10607": {
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10608": {
+    "Aetna": "No restrictions.",
+    "BlueCross": "Covered under preventive services without auth.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10609": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10614": {
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10616": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10617": {
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10618": {
+    "UnitedHealth": "No restrictions.",
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10619": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Aetna": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10621": {
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10622": {
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10627": {
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10628": {
+    "Humana": "Requires clinical documentation before approval.",
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10630": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "Humana": "Prior authorization required for new patients.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10633": {
+    "BlueCross": "No restrictions.",
+    "Cigna": "No restrictions.",
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10635": {
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10636": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires documentation of procedure.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10637": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Humana": "No restrictions."
+  },
+  "10638": {
+    "Cigna": "Prior authorization required for new patients.",
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10639": {
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10640": {
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10645": {
+    "Humana": "No restrictions."
+  },
+  "10650": {
+    "Cigna": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10652": {
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10655": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "Requires prior authorization for repeated procedures."
+  },
+  "10657": {
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Humana": "No prior authorization required.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10658": {
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10660": {
+    "Cigna": "Requires prior authorization for repeated procedures."
+  },
+  "10661": {
+    "BlueCross": "No restrictions.",
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10662": {
+    "Aetna": "No prior authorization required."
+  },
+  "10663": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10664": {
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Cigna": "No prior authorization required.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10666": {
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10668": {
+    "Humana": "No restrictions.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10669": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Covered under preventive services without auth.",
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10670": {
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10674": {
+    "Humana": "Requires documentation of procedure."
+  },
+  "10676": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "Prior authorization required for new patients.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10679": {
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10680": {
+    "Cigna": "Requires prior authorization for inpatient settings.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10682": {
+    "Cigna": "No prior authorization required."
+  },
+  "10684": {
+    "Aetna": "No restrictions.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10685": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10687": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10688": {
+    "BlueCross": "Prior authorization required only for specific patient groups.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10691": {
+    "Cigna": "Covered under preventive services without auth.",
+    "UnitedHealth": "No restrictions.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10697": {
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10698": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10699": {
+    "UnitedHealth": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10700": {
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10701": {
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10702": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Cigna": "Prior authorization required for new patients.",
+    "Humana": "Requires prior authorization for inpatient settings."
+  },
+  "10705": {
+    "Cigna": "Requires clinical documentation before approval.",
+    "Humana": "Prior authorization required only for specific patient groups."
+  },
+  "10706": {
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10707": {
+    "Aetna": "No restrictions.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10708": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10709": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10711": {
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10712": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10719": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10723": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10724": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Prior authorization required for new patients.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  },
+  "10728": {
+    "Aetna": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10729": {
+    "Cigna": "No prior authorization required."
+  },
+  "10731": {
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "No prior authorization required.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10732": {
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10733": {
+    "Humana": "Requires documentation of procedure.",
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10738": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Humana": "No restrictions.",
+    "BlueCross": "No restrictions."
+  },
+  "10740": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10741": {
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10743": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Covered under preventive services without auth.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10747": {
+    "Aetna": "No restrictions."
+  },
+  "10750": {
+    "BlueCross": "No prior authorization required.",
+    "UnitedHealth": "Requires clinical documentation before approval."
+  },
+  "10752": {
+    "Humana": "Requires clinical documentation before approval.",
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10753": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "No prior authorization required.",
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10756": {
+    "Humana": "Requires documentation of procedure.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10757": {
+    "UnitedHealth": "No prior authorization required.",
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10763": {
+    "Humana": "Prior authorization required only for specific patient groups."
+  },
+  "10764": {
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10765": {
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10769": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10770": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "No prior authorization required."
+  },
+  "10771": {
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10772": {
+    "BlueCross": "No restrictions.",
+    "Humana": "No prior authorization required."
+  },
+  "10773": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Cigna": "No prior authorization required."
+  },
+  "10776": {
+    "BlueCross": "No restrictions.",
+    "Cigna": "No restrictions."
+  },
+  "10777": {
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10778": {
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires documentation of procedure."
+  },
+  "10780": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Humana": "Requires documentation of procedure.",
+    "UnitedHealth": "No restrictions."
+  },
+  "10782": {
+    "Humana": "Requires prior authorization for repeated procedures."
+  },
+  "10788": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "No prior authorization required."
+  },
+  "10789": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "Humana": "Covered under preventive services without auth.",
+    "UnitedHealth": "Prior authorization required for new patients."
+  },
+  "10793": {
+    "Humana": "Requires documentation of procedure.",
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Aetna": "No prior authorization required."
+  },
+  "10794": {
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Aetna": "Requires prior authorization for inpatient settings."
+  },
+  "10796": {
+    "Humana": "No prior authorization required."
+  },
+  "10801": {
+    "Aetna": "No prior authorization required.",
+    "Cigna": "Prior authorization required for new patients."
+  },
+  "10804": {
+    "Aetna": "No prior authorization required."
+  },
+  "10805": {
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10806": {
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10807": {
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10809": {
+    "UnitedHealth": "No prior authorization required.",
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "BlueCross": "Prior authorization required only for specific patient groups."
+  },
+  "10810": {
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Aetna": "Requires clinical documentation before approval."
+  },
+  "10812": {
+    "Humana": "Requires clinical documentation before approval.",
+    "BlueCross": "No restrictions."
+  },
+  "10814": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10819": {
+    "Aetna": "No restrictions.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10823": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10824": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10825": {
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10829": {
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Aetna": "No prior authorization required.",
+    "UnitedHealth": "No prior authorization required."
+  },
+  "10831": {
+    "UnitedHealth": "Covered under preventive services without auth.",
+    "Cigna": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10832": {
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10833": {
+    "BlueCross": "No prior authorization required."
+  },
+  "10835": {
+    "BlueCross": "No prior authorization required.",
+    "Humana": "Prior authorization required only for specific patient groups."
+  },
+  "10836": {
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "Cigna": "No restrictions.",
+    "Aetna": "Pre-approval required for outpatient procedures."
+  },
+  "10837": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Humana": "No restrictions.",
+    "BlueCross": "No restrictions."
+  },
+  "10839": {
+    "UnitedHealth": "Requires documentation of procedure.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10841": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Cigna": "Covered under preventive services without auth."
+  },
+  "10843": {
+    "Cigna": "Requires prior authorization for repeated procedures."
+  },
+  "10844": {
+    "Humana": "No prior authorization required.",
+    "UnitedHealth": "No restrictions."
+  },
+  "10845": {
+    "BlueCross": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10848": {
+    "Humana": "No restrictions.",
+    "Cigna": "Requires clinical documentation before approval."
+  },
+  "10849": {
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10856": {
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10857": {
+    "UnitedHealth": "Requires documentation of procedure."
+  },
+  "10858": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10860": {
+    "UnitedHealth": "No prior authorization required.",
+    "BlueCross": "Requires documentation of procedure.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10861": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Covered under preventive services without auth.",
+    "Aetna": "Prior authorization required only for specific patient groups."
+  },
+  "10867": {
+    "BlueCross": "Requires clinical documentation before approval.",
+    "Cigna": "Pre-approval required for outpatient procedures.",
+    "Humana": "Pre-approval required for outpatient procedures."
+  },
+  "10869": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "Aetna": "Requires prior authorization for inpatient settings.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10872": {
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10875": {
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10876": {
+    "BlueCross": "Requires prior authorization for repeated procedures."
+  },
+  "10877": {
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10881": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "UnitedHealth": "Prior authorization required for new patients."
+  },
+  "10887": {
+    "Aetna": "No restrictions.",
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "Cigna": "Prior authorization required only for specific patient groups."
+  },
+  "10888": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Humana": "Covered under preventive services without auth.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10889": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Cigna": "No restrictions."
+  },
+  "10890": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10892": {
+    "BlueCross": "Prior authorization required for new patients.",
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10893": {
+    "Humana": "Prior authorization required for new patients.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Requires prior authorization for repeated procedures."
+  },
+  "10894": {
+    "BlueCross": "Requires documentation of procedure.",
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10895": {
+    "BlueCross": "Prior authorization required only for specific patient groups.",
+    "Aetna": "Prior authorization required for new patients.",
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10897": {
+    "UnitedHealth": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10898": {
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10900": {
+    "Aetna": "No restrictions.",
+    "BlueCross": "Pre-approval required for outpatient procedures.",
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10901": {
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "Aetna": "No prior authorization required."
+  },
+  "10904": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures.",
+    "Humana": "No restrictions."
+  },
+  "10905": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "Aetna": "No restrictions.",
+    "BlueCross": "No restrictions."
+  },
+  "10910": {
+    "BlueCross": "Prior authorization required only for specific patient groups.",
+    "Humana": "Prior authorization required only for specific patient groups."
+  },
+  "10912": {
+    "Aetna": "Pre-approval required for outpatient procedures.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10913": {
+    "Cigna": "Requires documentation of procedure.",
+    "BlueCross": "Prior authorization required for new patients.",
+    "Humana": "No restrictions."
+  },
+  "10923": {
+    "UnitedHealth": "Prior authorization required for new patients.",
+    "Aetna": "No restrictions."
+  },
+  "10924": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10926": {
+    "Aetna": "Requires documentation of procedure.",
+    "Humana": "No prior authorization required."
+  },
+  "10928": {
+    "Aetna": "No prior authorization required.",
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10934": {
+    "Cigna": "No restrictions.",
+    "Aetna": "No prior authorization required."
+  },
+  "10935": {
+    "Aetna": "Covered under preventive services without auth.",
+    "Humana": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Requires prior authorization for inpatient settings."
+  },
+  "10937": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures.",
+    "Humana": "No restrictions.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10939": {
+    "Cigna": "Requires documentation of procedure."
+  },
+  "10940": {
+    "BlueCross": "No restrictions."
+  },
+  "10945": {
+    "Humana": "Pre-approval required for outpatient procedures.",
+    "Cigna": "No prior authorization required."
+  },
+  "10950": {
+    "Aetna": "Requires documentation of procedure."
+  },
+  "10955": {
+    "Cigna": "Covered under preventive services without auth.",
+    "BlueCross": "Requires documentation of procedure.",
+    "UnitedHealth": "No restrictions."
+  },
+  "10959": {
+    "Humana": "Requires clinical documentation before approval."
+  },
+  "10960": {
+    "Humana": "Requires clinical documentation before approval.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10964": {
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Cigna": "Prior authorization required for new patients.",
+    "Humana": "Covered under preventive services without auth."
+  },
+  "10965": {
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10969": {
+    "Humana": "Prior authorization required for new patients."
+  },
+  "10970": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Humana": "Covered under preventive services without auth.",
+    "BlueCross": "Requires prior authorization for inpatient settings."
+  },
+  "10974": {
+    "Cigna": "Pre-approval required for outpatient procedures."
+  },
+  "10975": {
+    "Humana": "Requires prior authorization for repeated procedures.",
+    "BlueCross": "No restrictions.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10976": {
+    "Cigna": "Prior authorization required only for specific patient groups.",
+    "Humana": "Prior authorization required for new patients.",
+    "Aetna": "Prior authorization required for new patients."
+  },
+  "10980": {
+    "BlueCross": "Covered under preventive services without auth.",
+    "UnitedHealth": "Prior authorization required only for specific patient groups.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10982": {
+    "Humana": "Requires prior authorization for inpatient settings.",
+    "BlueCross": "Requires prior authorization for inpatient settings.",
+    "UnitedHealth": "Requires prior authorization for inpatient settings."
+  },
+  "10985": {
+    "Aetna": "Requires clinical documentation before approval.",
+    "Humana": "Requires documentation of procedure."
+  },
+  "10986": {
+    "Humana": "Requires documentation of procedure.",
+    "Aetna": "No restrictions.",
+    "BlueCross": "Pre-approval required for outpatient procedures."
+  },
+  "10987": {
+    "Aetna": "No prior authorization required.",
+    "BlueCross": "Prior authorization required for new patients."
+  },
+  "10989": {
+    "Cigna": "Requires prior authorization for repeated procedures.",
+    "Aetna": "Prior authorization required for new patients.",
+    "BlueCross": "Requires clinical documentation before approval."
+  },
+  "10993": {
+    "Humana": "No restrictions."
+  },
+  "10994": {
+    "Humana": "Requires documentation of procedure.",
+    "BlueCross": "Covered under preventive services without auth."
+  },
+  "10995": {
+    "Humana": "No prior authorization required.",
+    "Aetna": "Covered under preventive services without auth."
+  },
+  "10997": {
+    "UnitedHealth": "Requires prior authorization for repeated procedures."
+  },
+  "10998": {
+    "UnitedHealth": "Pre-approval required for outpatient procedures."
+  },
+  "10999": {
+    "Aetna": "Covered under preventive services without auth.",
+    "UnitedHealth": "Covered under preventive services without auth."
+  }
+}

@@ -1,18 +1,197 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin-top: 50px;
+/* Global box-sizing */
+*, *::before, *::after {
+  box-sizing: border-box;
 }
 
-input {
-  padding: 8px;
-  font-size: 16px;
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f7ff;
+  color: #2d2d2d;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  min-height: 100vh;
+  padding: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Main content container */
+.main-content {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(76, 81, 191, 0.2);
+  padding: 2rem;
+  max-width: 600px;
+  width: 100%; /* responsive */
+  flex: 1;
+  min-width: 320px;
+  border: 3px solid #4c51bf; /* purple border */
+}
+
+/* Headings */
+h1 {
+  font-size: 2rem;
+  color: #4c51bf;
+  text-align: center;
+  margin-bottom: 1.25rem;
+  font-weight: 700;
+}
+
+/* Inputs and selects full width */
+input[type="text"],
+select {
+  width: 100%;
+  padding: 0.9rem 1.2rem;
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  border: 2px solid #a3a1ff;
+  border-radius: 10px;
+  background-color: #f0f0ff;
+  transition: all 0.3s ease;
+  color: #2d2d2d;
+  box-sizing: border-box;
+}
+
+input:focus,
+select:focus {
+  border-color: #4c51bf;
+  background-color: #e5e6ff;
+  outline: none;
+  box-shadow: 0 0 12px rgba(76, 81, 191, 0.4);
+}
+
+/* Buttons */
 button {
-  padding: 8px 12px;
-  margin-left: 10px;
+  width: 100%;
+  padding: 0.8rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, #6b67f3, #4c51bf);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.35s ease;
 }
+
+button:hover {
+  background: linear-gradient(135deg, #7a78ff, #5b5edd);
+}
+
+/* Result and history */
 #result {
-  margin-top: 20px;
-  font-weight: bold;
+  margin-top: 1.75rem;
+  padding: 1.2rem;
+  background-color: #f4f5ff;
+  border-left: 5px solid #4c51bf;
+  border-radius: 10px;
+  font-size: 1rem;
+  min-height: 50px;
+}
+
+#history {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #ebeefe;
+  border-radius: 10px;
+  max-height: 220px;
+  overflow-y: auto;
+  font-size: 0.95rem;
+  color: #3d3d6f;
+}
+
+/* Sidebar */
+.sidebar {
+  position: relative;
+  max-width: 320px;
+  background: linear-gradient(145deg, #e0e0ff, #c7c9ff);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(76, 81, 191, 0.15);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  flex: 1;
+  min-width: 280px;
+  color: #3b3b70;
+}
+
+/* Sidebar quote */
+.sidebar blockquote {
+  font-style: italic;
+  color: #3b3b70;
+  margin-bottom: 1.25rem;
+  font-size: 1.1rem;
+  line-height: 1.4;
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.sidebar blockquote span {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #5b5ba8;
+  font-weight: 600;
+}
+
+/* Sidebar flair container */
+.sidebar-flair {
+  margin-top: 2rem;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #4c51bf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  user-select: none;
+  font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+}
+
+/* Circle and emoji container */
+.circle-emoji-container {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.circle-emoji-container svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.circle-emoji-container .emoji {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Status text */
+.ok {
+  color: #2f855a; /* soft green */
+  font-weight: 600;
+}
+
+.warn {
+  color: #c53030; /* soft red */
+  font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .app-container {
+    flex-direction: column;
+    align-items: center;
+  }
 }
