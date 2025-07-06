@@ -55,6 +55,7 @@ It demonstrates my skills in:
 ---
 
 ## 💻 Usage
+(https://kaylew1421.github.io/CPT-code-validator/)
 
 ### 🔧 Setup
 1️⃣ Clone the repo:
