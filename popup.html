@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CPT Validator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="popup-wrapper">
+    <h1>CPT Code + Payer Rules Validator</h1>
+
+    <input 
+      type="text" 
+      id="cptInput" 
+      placeholder="Enter CPT code(s), comma-separated"
+      autocomplete="off"
+    />
+
+    <select id="payerInput">
+      <option value="">Select Payer</option>
+      <option value="Medicare">Medicare</option>
+      <option value="Blue Cross">Blue Cross</option>
+      <option value="United">United</option>
+    </select>
+
+    <button id="validateBtn">Validate</button>
+    <button id="clearHistory" class="secondary-btn">Clear History</button>
+
+    <h3>Validation History</h3>
+    <div id="history"></div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
