@@ -1,68 +1,119 @@
-## 💻 Usage
-https://kaylew1421.github.io/CPT-code-validator/
+# 📋 CPT + Payer Rules Validator (Chrome Extension + Web App)
 
-# 📋 CPT + Payer Rules Validator
+A modern, easy-to-use tool to validate **CPT (Current Procedural Terminology)** codes and display **payer-specific rules** — now available as both a **Chrome Extension** and standalone web app.
 
-A web-based tool to validate **CPT (Current Procedural Terminology)** codes and display **payer-specific rules** to assist healthcare staff with prior authorization, eligibility checks, and documentation accuracy.
-
----
-
-## 🎯 What is this project?
-
-This project helps users:
-- Validate if a CPT code exists and is properly formatted (5-digit numeric).
-- Enter **multiple CPT codes** at once and get results for each.
-- Select a **payer** (like Medicare, Blue Cross, United) to see any payer-specific rules tied to the CPT code(s).
-- See suggestions/autocomplete when typing a CPT code.
-- Track validation history in the browser session.
-- Learn from a clear, modern, and professional user interface.
-
-It demonstrates my skills in:
-✅ Front-end web development  
-✅ Clean UI/UX design  
-✅ Data validation and error handling  
-✅ Working with JSON datasets  
-✅ Organizing and documenting a realistic healthcare-related application
+🔗 Web Demo: [https://kaylew1421.github.io/CPT-code-validator/](https://kaylew1421.github.io/CPT-code-validator/)  
+🧩 Chrome Extension: Load `CPT-Validator` folder in Chrome → Extensions → Load unpacked
 
 ---
 
-## 🚀 Features Explained
+## 💡 What Does It Do?
 
-| Feature                         | Explanation |
-|---------------------------------|-------------|
-| 🔍 **CPT Validation** | Checks if entered CPT codes match any in the dataset (`cpt-codes.json`) and ensures proper 5-digit format. |
-| 📋 **Payer Rules Lookup** | For each CPT code entered, shows payer-specific notes or requirements, based on `rules.json`. |
-| 📝 **Batch Validation** | Users can input **multiple CPT codes** at once, separated by commas or spaces, and see all results. |
-| 📖 **Validation History** | Each validation result is appended to a session history, so users can review prior queries. |
-| ✨ **Autocomplete Suggestions** | While typing, suggestions from the dataset appear to help users select valid codes faster. |
-| 🎨 **Modern UI** | Attractive, responsive design with clear feedback and a sidebar with inspirational content. |
-| 📦 **Mock Data Generation** | Includes Python scripts to generate large, realistic datasets of CPT codes and payer rules for testing. |
-| 🧪 **Test Scaffolding** | Ready for unit testing with Jest to demonstrate testable JavaScript code. |
+This project helps healthcare staff and developers:
+
+- ✅ Validate CPT codes (mock dataset)
+- ✅ Check payer-specific rules (e.g., Medicare, Blue Cross, United)
+- ✅ Input **multiple codes at once**
+- ✅ View **validation history** that persists during the session
+- ✅ Use an intuitive Chrome Extension UI or standalone web version
 
 ---
 
-## 📂 Project Structure
+## 🧩 Chrome Extension Features
+
+| Feature                  | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🧾 CPT Code Lookup       | Validates whether a code exists in mock dataset and matches 5-digit format |
+| 💼 Payer Rule Checks     | Returns payer-specific rules per code using `rules.json`                   |
+| 📚 History Tracking      | Results persist in session and can be cleared manually                     |
+| 🖼️ Popup UI              | Clean, responsive extension popup for on-the-fly validation                |
+| 💾 Offline Ready         | Loads local JSON data and works without internet                           |
+
+---
+
+## 📂 Folder Structure
+
+CPT-Validator/
+
+├── manifest.json
+
+├── popup.html
+
+├── script.js
+
+├── style.css
+
+├── background.js
+
+├── cpt-codes.json
+
+├── rules.json
+
+├── icon16.png
+
+├── icon48.png
+
+└── icon128.png
 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5 & CSS3** — for structure & styling
-- **Vanilla JavaScript (ES6+)** — for logic & DOM manipulation
-- **JSON** — for mock data & rules
-- **Python** — for generating realistic datasets
-- **Jest** — to write & run JavaScript unit tests
-- **Git & GitHub** — for version control & hosting
+- **HTML/CSS/JavaScript (Vanilla)**
+- **JSON** (for mock CPT + rule data)
+- **Chrome Extension APIs**
+- **Optional: Python** (used to generate mock data files)
+- **Jest** (included in web project for future unit testing)
+
+---
+
+## ⚙️ How to Use
+
+### 🚀 Web App
+
+1. Open `index.html` or visit:  
+   [https://kaylew1421.github.io/CPT-code-validator/](https://kaylew1421.github.io/CPT-code-validator/)
+
+---
+
+### 🧩 Chrome Extension
+
+1. Open Chrome
+2. Go to: `chrome://extensions`
+3. Enable **Developer Mode**
+4. Click **Load Unpacked**
+5. Select the `CPT-Validator/` folder
+
+✅ Done! Click the extension icon to launch the validator.
+
+---
+
+## ✨ Future Improvements
+
+Integrate with CPT data APIs (once licensed)
+
+Add FHIR/NPI validation
+
+Dark mode UI toggle
+
+Export validation reports
+
+----
+
+## 🔒 Licensing Note
+This tool uses mock CPT data only and does not include licensed AMA CPT codes.
+For commercial use or integration with real CPT APIs (e.g., AAPC, CMS), a proper license is required.
+
+----
+
+## 🧼 Quick Cleanup
+
+To clear stored validation history in the extension:
+
+Use the "🗑️ Clear History" button in the popup UI
 
 
-### 🔧 Setup
-1️⃣ Clone the repo:
-```bash
-git clone https://github.com/kaylew1421/CPT-code-validator.git
-cd CPT-code-validator
+**Thanks for trying this out! Healthcare tools should be clear, accessible, and fast — just like this.**
 
-python generate_cpt_data.py
-python generate_rules.py
-npm install
-npx jest
+## Made with ❤️ by Kayla Lewis
